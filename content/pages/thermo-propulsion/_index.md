@@ -32,20 +32,361 @@ Learning Objectives
 Thermodynamics, 16.01-16.02
 ---------------------------
 
-| LEC # | TOPICS | CONCEPT QUESTIONS | MUDDY POINTS | READINGS | ASSIGNMENTS / SOLUTIONS |
-| --- | --- | --- | --- | --- | --- |
-| T1 | Course Introduction and Thermodynamic Concepts | Q1 ([PDF]({{< baseurl >}}/resources/q2_1))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q2_4)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T1mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T1newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T1mud.html) | [Course Introduction](/ans7870/16/16.unified/thermoF03/chapter_1.htm) and [Thermodynamic Concepts](/ans7870/16/16.unified/thermoF03/chapter_2.htm) | Problem T1 ([PDF]({{< baseurl >}}/resources/t01_ps01_fall03))  {{< br >}}  {{< br >}}Solution T1 ([PDF]({{< baseurl >}}/resources/t01_ps01_sol)) |
-| T2 | Changing the State of a System with Heat and Work | Q1 ([PDF]({{< baseurl >}}/resources/q2_6))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q3_3)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T2mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T2newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T2mud.html) | [Changing the State of a System with Heat and Work](/ans7870/16/16.unified/thermoF03/chapter_3.htm) | Problem T2 ([PDF]({{< baseurl >}}/resources/t02_ps02_fall03))  {{< br >}}  {{< br >}}Solution T2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t02_ps02_sol)) |
-| T3 | State Changes, First Law | Q1 ([PDF]({{< baseurl >}}/resources/q3_2))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q4_1)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T3mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T3newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T3mud.html) | [First Law of Thermodynamics, Sections I and II](/ans7870/16/16.unified/thermoF03/chapter_4.htm) | Problem T3 ([PDF]({{< baseurl >}}/resources/t03_ps02_fall03))  {{< br >}}  {{< br >}}Solution T3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t03_ps02_sol)) |
-| T4 | First Law (cont.) | Q1 ([PDF]({{< baseurl >}}/resources/q4_4))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q4_7)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T4mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T4newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T4mud.html) | [First Law of Thermodynamics, Sections I and II](/ans7870/16/16.unified/thermoF03/chapter_4.htm) | Problem T4 ([PDF]({{< baseurl >}}/resources/t04_ps02_fall03))  {{< br >}}  {{< br >}}Solution T4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t04_ps02_sol)) |
-| T5 | First Law, Enthalpy, Specific Heats | Q1 ([PDF]({{< baseurl >}}/resources/q4_11))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q4_14))  {{< br >}}  {{< br >}}Q3 ([PDF]({{< baseurl >}}/resources/q4_8)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T5mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T5newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T5mud.html) | [First Law of Thermodynamics, Sections III, IV, V](/ans7870/16/16.unified/thermoF03/chapter_4.htm#Example) | Problem T5 ([PDF]({{< baseurl >}}/resources/t05_ps02_fall03))  {{< br >}}  {{< br >}}Solution T5 ([PDF]({{< baseurl >}}/resources/t05_ps02_sol)) |
-| T6 | First Law, Enthalpy, Specific Heats, Introduction to Heat Engines | Q1 ([PDF]({{< baseurl >}}/resources/q5_3)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T6mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T6newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T6mud.html) | [Applications of the First Law to Heat Engines](/ans7870/16/16.unified/thermoF03/chapter_5.htm) | Problem T6 ([PDF]({{< baseurl >}}/resources/t05_ps02_sol))  {{< br >}}  {{< br >}}Solution T6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t06_ps03_sol)) |
-| T7 | Heat Engines (cont.) | Q1 ([PDF]({{< baseurl >}}/resources/q5_4)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T7mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T7newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T7mud.html) | [Applications of the First Law to Heat Engines](/ans7870/16/16.unified/thermoF03/chapter_5.htm) | Problem T7 ([PDF]({{< baseurl >}}/resources/t07_ps03_fall03))  {{< br >}}  {{< br >}}Solution T7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t07_ps03_sol)) |
-| T8 | Steady Flow Energy Equation | Q1 ([PDF]({{< baseurl >}}/resources/q6_1))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q6_4)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T89mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T8newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T8mud.html) | [Steady Flow Energy Equation, Section I.A](/ans7870/16/16.unified/thermoF03/chapter_6.htm) | Problem T8 ([PDF]({{< baseurl >}}/resources/t08_ps03_fall03))  {{< br >}}  {{< br >}}Solution T8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t08_ps03_sol)) |
-| T9 | Shaft Work and Flow Work | Q1 ([PDF]({{< baseurl >}}/resources/q6_9))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q6_6))  {{< br >}}  {{< br >}}Q3 ([PDF]({{< baseurl >}}/resources/q6_12)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T89mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T9newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T9mud.html) | [Steady Flow Energy Equation, Section I.A](/ans7870/16/16.unified/thermoF03/chapter_6.htm) | Problem T9 ([PDF]({{< baseurl >}}/resources/t09_ps03_fall03))  {{< br >}}  {{< br >}}Solution T9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t09_ps03_sol)) |
-| T10 | Stagnation Quantities | Q1 ([PDF]({{< baseurl >}}/resources/q6_11))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q6_19))  {{< br >}}  {{< br >}}Q3 ([PDF]({{< baseurl >}}/resources/q6_14)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T10mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T10newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T10mud.html) | [Steady Flow Energy Equation, Section I.B-I.C](/ans7870/16/16.unified/thermoF03/chapter_6.htm#temperature) | Problem T10 ([PDF]({{< baseurl >}}/resources/t10_ps04_fall03))  {{< br >}}  {{< br >}}Solution T10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t10_ps04_sol)) |
-| T11 | Reversible and Irreversible Processes | Q1 ([PDF]({{< baseurl >}}/resources/q7_2))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q7_4))  {{< br >}}  {{< br >}}Q3 ([PDF]({{< baseurl >}}/resources/q7_9))  {{< br >}}  {{< br >}}Q4 ([PDF]({{< baseurl >}}/resources/q7_10)) | [2003](/ans7870/16/16.unified/thermoF03/mud/T11mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T11newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T11mud.html) | [Reversible and Irreversible Processes, Entropy, and Introduction to the Second Law, Section I](/ans7870/16/16.unified/thermoF03/chapter_7.htm) | Problem T11 ([PDF]({{< baseurl >}}/resources/t11_ps04_fall03))  {{< br >}}  {{< br >}}Solution T11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t11_ps04_sol)) |
-| T12 | Entropy | &nbsp; | [2003](/ans7870/16/16.unified/thermoF03/mud/T12mud03.html)  {{< br >}}[2002](/ans7870/16/16.unified/thermoF03/mud/T12newmud.html)  {{< br >}}[2000](/ans7870/16/16.unified/thermoF03/mud/T12mud.html) | [Reversible and Irreversible Processes, Entropy, and Introduction to the Second Law, Sections II and III](/ans7870/16/16.unified/thermoF03/chapter_7.htm#Entropy) | Problem T12 ([PDF]({{< baseurl >}}/resources/t12_ps04_fall03))  {{< br >}}  {{< br >}}Solution T12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t12_ps04_sol)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+CONCEPT QUESTIONS
+{{< thclose >}}
+{{< thopen >}}
+MUDDY POINTS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS / SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T1
+{{< tdclose >}}
+{{< tdopen >}}
+Course Introduction and Thermodynamic Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q2_1))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q2_4))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T1mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T1newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T1mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Course Introduction](/ans7870/16/16.unified/thermoF03/chapter_1.htm) and [Thermodynamic Concepts](/ans7870/16/16.unified/thermoF03/chapter_2.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T1 ([PDF]({{< baseurl >}}/resources/t01_ps01_fall03))  
+  
+Solution T1 ([PDF]({{< baseurl >}}/resources/t01_ps01_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T2
+{{< tdclose >}}
+{{< tdopen >}}
+Changing the State of a System with Heat and Work
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q2_6))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q3_3))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T2mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T2newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T2mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Changing the State of a System with Heat and Work](/ans7870/16/16.unified/thermoF03/chapter_3.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T2 ([PDF]({{< baseurl >}}/resources/t02_ps02_fall03))  
+  
+Solution T2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t02_ps02_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T3
+{{< tdclose >}}
+{{< tdopen >}}
+State Changes, First Law
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q3_2))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q4_1))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T3mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T3newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T3mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[First Law of Thermodynamics, Sections I and II](/ans7870/16/16.unified/thermoF03/chapter_4.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T3 ([PDF]({{< baseurl >}}/resources/t03_ps02_fall03))  
+  
+Solution T3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t03_ps02_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T4
+{{< tdclose >}}
+{{< tdopen >}}
+First Law (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q4_4))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q4_7))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T4mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T4newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T4mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[First Law of Thermodynamics, Sections I and II](/ans7870/16/16.unified/thermoF03/chapter_4.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T4 ([PDF]({{< baseurl >}}/resources/t04_ps02_fall03))  
+  
+Solution T4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t04_ps02_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T5
+{{< tdclose >}}
+{{< tdopen >}}
+First Law, Enthalpy, Specific Heats
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q4_11))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q4_14))  
+  
+Q3 ([PDF]({{< baseurl >}}/resources/q4_8))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T5mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T5newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T5mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[First Law of Thermodynamics, Sections III, IV, V](/ans7870/16/16.unified/thermoF03/chapter_4.htm#Example)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T5 ([PDF]({{< baseurl >}}/resources/t05_ps02_fall03))  
+  
+Solution T5 ([PDF]({{< baseurl >}}/resources/t05_ps02_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T6
+{{< tdclose >}}
+{{< tdopen >}}
+First Law, Enthalpy, Specific Heats, Introduction to Heat Engines
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q5_3))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T6mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T6newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T6mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Applications of the First Law to Heat Engines](/ans7870/16/16.unified/thermoF03/chapter_5.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T6 ([PDF]({{< baseurl >}}/resources/t05_ps02_sol))  
+  
+Solution T6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t06_ps03_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T7
+{{< tdclose >}}
+{{< tdopen >}}
+Heat Engines (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q5_4))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T7mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T7newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T7mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Applications of the First Law to Heat Engines](/ans7870/16/16.unified/thermoF03/chapter_5.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T7 ([PDF]({{< baseurl >}}/resources/t07_ps03_fall03))  
+  
+Solution T7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t07_ps03_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T8
+{{< tdclose >}}
+{{< tdopen >}}
+Steady Flow Energy Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q6_1))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q6_4))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T89mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T8newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T8mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Steady Flow Energy Equation, Section I.A](/ans7870/16/16.unified/thermoF03/chapter_6.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T8 ([PDF]({{< baseurl >}}/resources/t08_ps03_fall03))  
+  
+Solution T8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t08_ps03_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T9
+{{< tdclose >}}
+{{< tdopen >}}
+Shaft Work and Flow Work
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q6_9))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q6_6))  
+  
+Q3 ([PDF]({{< baseurl >}}/resources/q6_12))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T89mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T9newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T9mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Steady Flow Energy Equation, Section I.A](/ans7870/16/16.unified/thermoF03/chapter_6.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T9 ([PDF]({{< baseurl >}}/resources/t09_ps03_fall03))  
+  
+Solution T9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t09_ps03_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T10
+{{< tdclose >}}
+{{< tdopen >}}
+Stagnation Quantities
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q6_11))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q6_19))  
+  
+Q3 ([PDF]({{< baseurl >}}/resources/q6_14))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T10mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T10newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T10mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Steady Flow Energy Equation, Section I.B-I.C](/ans7870/16/16.unified/thermoF03/chapter_6.htm#temperature)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T10 ([PDF]({{< baseurl >}}/resources/t10_ps04_fall03))  
+  
+Solution T10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t10_ps04_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T11
+{{< tdclose >}}
+{{< tdopen >}}
+Reversible and Irreversible Processes
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q7_2))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q7_4))  
+  
+Q3 ([PDF]({{< baseurl >}}/resources/q7_9))  
+  
+Q4 ([PDF]({{< baseurl >}}/resources/q7_10))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T11mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T11newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T11mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Reversible and Irreversible Processes, Entropy, and Introduction to the Second Law, Section I](/ans7870/16/16.unified/thermoF03/chapter_7.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T11 ([PDF]({{< baseurl >}}/resources/t11_ps04_fall03))  
+  
+Solution T11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t11_ps04_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+T12
+{{< tdclose >}}
+{{< tdopen >}}
+Entropy
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/thermoF03/mud/T12mud03.html)  
+[2002](/ans7870/16/16.unified/thermoF03/mud/T12newmud.html)  
+[2000](/ans7870/16/16.unified/thermoF03/mud/T12mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Reversible and Irreversible Processes, Entropy, and Introduction to the Second Law, Sections II and III](/ans7870/16/16.unified/thermoF03/chapter_7.htm#Entropy)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem T12 ([PDF]({{< baseurl >}}/resources/t12_ps04_fall03))  
+  
+Solution T12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t12_ps04_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  
@@ -53,17 +394,273 @@ Thermodynamics, 16.01-16.02
 Propulsion, 16.03-16.04
 -----------------------
 
-| LEC # | TOPICS | CONCEPT QUESTIONS | MUDDY POINTS | READINGS | ASSIGNMENTS / SOLUTIONS |
-| --- | --- | --- | --- | --- | --- |
-| P1 | Introduction to Propulsion and the Integral Momentum Equation | Q1 ([PDF]({{< baseurl >}}/resources/q1))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q2)) | [2004](/ans7870/16/16.unified/propulsionS04/Mud/P104mud.html)  {{< br >}}[2003](/ans7870/16/16.unified/propulsionS04/Mud/P1newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P1mud.html) | [Introduction to Propulsion](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion1/UnifiedPropulsion1.htm) and [Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm)  {{< br >}}  {{< br >}}CFM56-3 Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cfm_engine)) | Problem P1 ([PDF]({{< baseurl >}}/resources/p1))  {{< br >}}  {{< br >}}Solution P1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p1sol)) |
-| P2 | Integral Momentum Equation | Q1 ([PDF]({{< baseurl >}}/resources/q3-1)) | [2004](/ans7870/16/16.unified/propulsionS04/Mud/P204mud.html)  {{< br >}}[2003](/ans7870/16/16.unified/propulsionS04/Mud/P2newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P2mud.html) | [Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm) | Problem P2 ([PDF]({{< baseurl >}}/resources/p2))  {{< br >}}  {{< br >}}Solution P2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p2sol)) |
-| P3 | Applications of the Momentum Theorem, Definition of Efficiencies | Q1 ([PDF]({{< baseurl >}}/resources/q8))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q10))  {{< br >}}  {{< br >}}P3 Lecture Slides ([PDF]({{< baseurl >}}/resources/p3slides)) | [2004](/ans7870/16/16.unified/propulsionS04/Mud/P304mud.html)  {{< br >}}[2003](/ans7870/16/16.unified/propulsionS04/Mud/P3newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P3mud.html) | [Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm) and [Efficiencies of A/C Engines](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion3/UnifiedPropulsion3.htm) | Problem P3 ([PDF]({{< baseurl >}}/resources/p3))  {{< br >}}  {{< br >}}Solution P3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p3sol)) |
-| P4 | Aircraft Performance and Mission Requirements, Relationship with Propulsion | Q1 ([PDF]({{< baseurl >}}/resources/q13))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q14)) | [2004](/ans7870/16/16.unified/propulsionS04/Mud/P404mud.html)  {{< br >}}[2003](/ans7870/16/16.unified/propulsionS04/Mud/P4newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P4mud.html) | [Aircraft Performance](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion4/UnifiedPropulsion4.htm) | Problem P4 ([PDF]({{< baseurl >}}/resources/p4))  {{< br >}}  {{< br >}}Solution P4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p4sol)) |
-| P5 | Rocket Performance | Q1 ([PDF]({{< baseurl >}}/resources/q15))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q17)) | [2004](/ans7870/16/16.unified/propulsionS04/Mud/P504mud.html)  {{< br >}}[2003](/ans7870/16/16.unified/propulsionS04/Mud/P5newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P5mud.html) | [Rocket Performance](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion5/UnifiedPropulsion5.htm) | Problem P5 ([PDF]({{< baseurl >}}/resources/p5))  {{< br >}}  {{< br >}}Solution P5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p5sol)) |
-| P6 | Rocket Performance and Connection to Engine Design Parameters | Q1 ([PDF]({{< baseurl >}}/resources/q19)) | [2003](/ans7870/16/16.unified/propulsionS04/Mud/P6newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P6mud.html) | [Rocket Nozzles: Connection to Flow of Geometry](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion6/UnifiedPropulsion6.htm) | Problem P6 ([PDF]({{< baseurl >}}/resources/p6))  {{< br >}}  {{< br >}}Solution P6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p6sol)) |
-| P7 | Cycle Analysis of a Gas Turbine Engine | Q1 ([PDF]({{< baseurl >}}/resources/q22))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q18)) | [2003](/ans7870/16/16.unified/propulsionS04/Mud/P7newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P7mud.html) | [Ideal Cycle Analysis of Aircraft Gas Turbine Engines](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion8/UnifiedPropulsion8.htm) | Problem P7 ([PDF]({{< baseurl >}}/resources/p7))  {{< br >}}  {{< br >}}Solution P7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p7sol)) |
-| P8 | Energy Exchange with Moving Blades | Q1 ([PDF]({{< baseurl >}}/resources/q31))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q24)) | [2003](/ans7870/16/16.unified/propulsionS04/Mud/P8newmud.html)  {{< br >}}[2002](/ans7870/16/16.unified/propulsionS04/Mud/P8mud.html) | [Energy Exchange with Moving Blades](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion9/UnifiedPropulsion9.htm) | Problem P8 ([PDF]({{< baseurl >}}/resources/p8))  {{< br >}}  {{< br >}}Solution P8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p8sol)) |
-| P9 | Energy Exchange with Moving Blades | Q1 ([PDF]({{< baseurl >}}/resources/q25))  {{< br >}}  {{< br >}}Q2 ([PDF]({{< baseurl >}}/resources/q30)) | [2003](/ans7870/16/16.unified/propulsionS04/Mud/P9newmud.html) | [Energy Exchange with Moving Blades](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion9/UnifiedPropulsion9.htm)  {{< br >}}  {{< br >}}Velocity Triangle Handouts ([PDF]({{< baseurl >}}/resources/velocitytriangles)) | Problem P9 ([PDF]({{< baseurl >}}/resources/p9))  {{< br >}}  {{< br >}}Solution P9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p9sol)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+CONCEPT QUESTIONS
+{{< thclose >}}
+{{< thopen >}}
+MUDDY POINTS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS / SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Propulsion and the Integral Momentum Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q1))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q2))
+{{< tdclose >}}
+{{< tdopen >}}
+[2004](/ans7870/16/16.unified/propulsionS04/Mud/P104mud.html)  
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P1newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P1mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Introduction to Propulsion](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion1/UnifiedPropulsion1.htm) and [Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm)  
+  
+CFM56-3 Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cfm_engine))
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P1 ([PDF]({{< baseurl >}}/resources/p1))  
+  
+Solution P1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p1sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P2
+{{< tdclose >}}
+{{< tdopen >}}
+Integral Momentum Equation
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q3-1))
+{{< tdclose >}}
+{{< tdopen >}}
+[2004](/ans7870/16/16.unified/propulsionS04/Mud/P204mud.html)  
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P2newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P2mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P2 ([PDF]({{< baseurl >}}/resources/p2))  
+  
+Solution P2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p2sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P3
+{{< tdclose >}}
+{{< tdopen >}}
+Applications of the Momentum Theorem, Definition of Efficiencies
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q8))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q10))  
+  
+P3 Lecture Slides ([PDF]({{< baseurl >}}/resources/p3slides))
+{{< tdclose >}}
+{{< tdopen >}}
+[2004](/ans7870/16/16.unified/propulsionS04/Mud/P304mud.html)  
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P3newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P3mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm) and [Efficiencies of A/C Engines](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion3/UnifiedPropulsion3.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P3 ([PDF]({{< baseurl >}}/resources/p3))  
+  
+Solution P3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p3sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P4
+{{< tdclose >}}
+{{< tdopen >}}
+Aircraft Performance and Mission Requirements, Relationship with Propulsion
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q13))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q14))
+{{< tdclose >}}
+{{< tdopen >}}
+[2004](/ans7870/16/16.unified/propulsionS04/Mud/P404mud.html)  
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P4newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P4mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Aircraft Performance](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion4/UnifiedPropulsion4.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P4 ([PDF]({{< baseurl >}}/resources/p4))  
+  
+Solution P4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p4sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P5
+{{< tdclose >}}
+{{< tdopen >}}
+Rocket Performance
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q15))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q17))
+{{< tdclose >}}
+{{< tdopen >}}
+[2004](/ans7870/16/16.unified/propulsionS04/Mud/P504mud.html)  
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P5newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P5mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Rocket Performance](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion5/UnifiedPropulsion5.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P5 ([PDF]({{< baseurl >}}/resources/p5))  
+  
+Solution P5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p5sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P6
+{{< tdclose >}}
+{{< tdopen >}}
+Rocket Performance and Connection to Engine Design Parameters
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q19))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P6newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P6mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Rocket Nozzles: Connection to Flow of Geometry](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion6/UnifiedPropulsion6.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P6 ([PDF]({{< baseurl >}}/resources/p6))  
+  
+Solution P6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p6sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P7
+{{< tdclose >}}
+{{< tdopen >}}
+Cycle Analysis of a Gas Turbine Engine
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q22))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q18))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P7newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P7mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Ideal Cycle Analysis of Aircraft Gas Turbine Engines](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion8/UnifiedPropulsion8.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P7 ([PDF]({{< baseurl >}}/resources/p7))  
+  
+Solution P7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p7sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P8
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Exchange with Moving Blades
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q31))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q24))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P8newmud.html)  
+[2002](/ans7870/16/16.unified/propulsionS04/Mud/P8mud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Energy Exchange with Moving Blades](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion9/UnifiedPropulsion9.htm)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P8 ([PDF]({{< baseurl >}}/resources/p8))  
+  
+Solution P8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p8sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+P9
+{{< tdclose >}}
+{{< tdopen >}}
+Energy Exchange with Moving Blades
+{{< tdclose >}}
+{{< tdopen >}}
+Q1 ([PDF]({{< baseurl >}}/resources/q25))  
+  
+Q2 ([PDF]({{< baseurl >}}/resources/q30))
+{{< tdclose >}}
+{{< tdopen >}}
+[2003](/ans7870/16/16.unified/propulsionS04/Mud/P9newmud.html)
+{{< tdclose >}}
+{{< tdopen >}}
+[Energy Exchange with Moving Blades](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion9/UnifiedPropulsion9.htm)  
+  
+Velocity Triangle Handouts ([PDF]({{< baseurl >}}/resources/velocitytriangles))
+{{< tdclose >}}
+{{< tdopen >}}
+Problem P9 ([PDF]({{< baseurl >}}/resources/p9))  
+  
+Solution P9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p9sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

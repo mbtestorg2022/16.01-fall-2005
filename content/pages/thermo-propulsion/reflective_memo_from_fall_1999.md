@@ -34,16 +34,120 @@ The active learning questions tended to take about 10 minutes each. These are sk
 III. Assessment Data
 --------------------
 
-| ASSESSMENT METHOD | FORMATIVE | SUMMATIVE |
-| --- | --- | --- |
-| Muddiest Part of the Lecture | X |  |
-| Quiz |  | X |
-| Homework | X | X |
-| Self-assessment |  | X |
-| Reading Quizzes | X | X |
-| CEG and SGT Forms | other | other |
-| Mid-term Student Feedback | other | other |
-| Time Spent on Homework | other | other 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSESSMENT METHOD
+{{< thclose >}}
+{{< thopen >}}
+FORMATIVE
+{{< thclose >}}
+{{< thopen >}}
+SUMMATIVE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Muddiest Part of the Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Self-assessment
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Reading Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+CEG and SGT Forms
+{{< tdclose >}}
+{{< tdopen >}}
+other
+{{< tdclose >}}
+{{< tdopen >}}
+other
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term Student Feedback
+{{< tdclose >}}
+{{< tdopen >}}
+other
+{{< tdclose >}}
+{{< tdopen >}}
+other
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Time Spent on Homework
+{{< tdclose >}}
+{{< tdopen >}}
+other
+{{< tdclose >}}
+{{< tdopen >}}
+other
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 

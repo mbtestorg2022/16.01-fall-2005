@@ -48,24 +48,264 @@ Assessment Methods
 
 I used homeworks and exams to assess student learning. Each of the homework problems and exams was coded to specific subject learning outcomes. The overall weighting was10% class participation 30% homework, 60% quizzes. Also, the use of the PRS system in-class and for the self-assessment activity and the collection of, and response to, all of the mud cards gave me a large amount of data on the class performance (formative and summative). Also, as in the past in Unified, we collected data on time spent on various activities (its primary use is to make sure the class stays within bounds).
 
-| DATA SOURCE | FORMATIVE | SUMMATIVE | FEEDBACK FOR ME |
-| --- | --- | --- | --- |
-| PRS System | X |  | X |
-| Time spent | X |  | X |
-| Self-assessment | X |  | X |
-| Muddiest Part of the Lecture | X |  | X |
-| Homework | X | X | X |
-| Quizzes |  | X | X |
-| End-of-term SEF data |  |  | X |
-| Class attendance |  |  | X 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DATA SOURCE
+{{< thclose >}}
+{{< thopen >}}
+FORMATIVE
+{{< thclose >}}
+{{< thopen >}}
+SUMMATIVE
+{{< thclose >}}
+{{< thopen >}}
+FEEDBACK FOR ME
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PRS System
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Time spent
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Self-assessment
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Muddiest Part of the Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End-of-term SEF data
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The performance on the homework and the time spent were both good with students on average performing well. The performance on the quiz is shown below with each question labeled in terms of the learning objectives that were addressed. Middle-B performance for the quiz was 79%, suggesting the class on average was about a half a grade below this standard. The lowest performance was on the second question. This was a conceptual question that tested their understanding of the assumptions underlying the engineering models they were applying. I mentioned the specific concept tested in this question in only one class, and then rather briefly. Note however, that it was discussed at some length in the mud responses (I am not sure how many students read these). ACTION: Next time I teach this, I need to give this and other modeling assumptions more time in lecture. The second lowest score was on the fourth problem which required application of the steady flow energy equation. The students are historically weak in applying some of the concepts to situations they haven't seen before (such as this whereas problem 3 was basically a cookie cutter repeat of a problem they had seen in various forms before). I attribute this in part to the small amount of homework time allowed in Unified for each hour of lecture material (1-1). See ACTION below.
 
-| LEARNING OBJECTIVES |  {{< br >}}{{< br >}} PROBLEM 1 {{< br >}}{{< br >}} #1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PROBLEM 2 {{< br >}}{{< br >}} #4,#5,#6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PROBLEM 3 {{< br >}}{{< br >}} #4,#6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} PROBLEM 4 {{< br >}}{{< br >}} #4,#5,#2 {{< br >}}{{< br >}}  | QUIZ TOTAL |
-| --- | --- | --- | --- | --- | --- |
-| Mean | 88% | 58% | 88% | 63% | 74% |
-| Standard Deviation | 18% | 35% | 13% | 27% | 16% |
-| Weighting | 10% | 10% | 36% | 44% | 100% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEARNING OBJECTIVES
+{{< thclose >}}
+{{< thopen >}}
+
+
+PROBLEM 1
+
+#1
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+PROBLEM 2
+
+#4,#5,#6
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+PROBLEM 3
+
+#4,#6
+
+
+{{< thclose >}}
+{{< thopen >}}
+
+
+PROBLEM 4
+
+#4,#5,#2
+
+
+{{< thclose >}}
+{{< thopen >}}
+QUIZ TOTAL
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mean
+{{< tdclose >}}
+{{< tdopen >}}
+88%
+{{< tdclose >}}
+{{< tdopen >}}
+58%
+{{< tdclose >}}
+{{< tdopen >}}
+88%
+{{< tdclose >}}
+{{< tdopen >}}
+63%
+{{< tdclose >}}
+{{< tdopen >}}
+74%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Standard Deviation
+{{< tdclose >}}
+{{< tdopen >}}
+18%
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+{{< tdopen >}}
+13%
+{{< tdclose >}}
+{{< tdopen >}}
+27%
+{{< tdclose >}}
+{{< tdopen >}}
+16%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weighting
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+{{< tdopen >}}
+36%
+{{< tdclose >}}
+{{< tdopen >}}
+44%
+{{< tdclose >}}
+{{< tdopen >}}
+100%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 The learning objectives that were not addressed on the quiz (e.g. learning objective 3) were addressed in the homework. The performance on the homeworks was quite acceptable and consistent with historical performance.
 

@@ -57,18 +57,180 @@ Assessment Methods
 
 The use of the PRS system in-class and for the self-assessment activity and the collection of, and response to, all of the mud cards gave me a large amount of data on the class performance (formative and summative). Also, as in the past in Unified, we collected data on time spent on various activities (its primary use is to make sure the class stays within bounds). Links to each of the following data sources as well as to data plots and correlations are contained in the appendices at the end of this memo.
 
-| DATA SOURCE | FORMATIVE | SUMMATIVE | FEEDBACK FOR ME |
-| --- | --- | --- | --- |
-| PRS System | X |  | X |
-| Time spent | X |  | X |
-| Self-assessment | X |  | X |
-| Muddiest Part of the Lecture | X |  | X |
-| Web-usage data |  |  | X |
-| Homework | X | X | X |
-| Quizzes |  | X | X |
-| Mid-term evaluation data |  |  | X |
-| End-of-term SEF data |  |  | X |
-| Class attendance |  |  | X 
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DATA SOURCE
+{{< thclose >}}
+{{< thopen >}}
+FORMATIVE
+{{< thclose >}}
+{{< thopen >}}
+SUMMATIVE
+{{< thclose >}}
+{{< thopen >}}
+FEEDBACK FOR ME
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PRS System
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Time spent
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Self-assessment
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Muddiest Part of the Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Web-usage data
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mid-term evaluation data
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End-of-term SEF data
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Some observations and lessons
 -----------------------------

@@ -28,26 +28,234 @@ The quizzes, along with the specific lectures whose topics are tested by each qu
 
 ### 16.01-16.02
 
-| EXAMS | TOPICS COVERED | SOLUTIONS |
-| --- | --- | --- |
-| Quiz 1: Thermodynamics | T1 - T12 | ([PDF]({{< baseurl >}}/resources/thermo2003quizsol)) |
-| Quiz 2: Computers and Programming | C1 - C16 | &nbsp; |
-| Quiz 3: Signals and Systems | S1 - S14 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q3s_sol)) |
-| Quiz 4: Materials and Structures | M1 - M11 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q4m_sol)) |
-| Quiz 5: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/fall_2003_quiz_5f)) | F1 - F11 | ([PDF]({{< baseurl >}}/resources/fall_2003_q5f_sol)) |
-| Quiz 6: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/fall_2003_q6f)) | F12 - F23 | ([PDF]({{< baseurl >}}/resources/fall_2003_q6f_sol)) |
-| Quiz 7: Materials and Structures | M12 - M25 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q7m_sol)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS COVERED
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1: Thermodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+T1 - T12
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/thermo2003quizsol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2: Computers and Programming
+{{< tdclose >}}
+{{< tdopen >}}
+C1 - C16
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 3: Signals and Systems
+{{< tdclose >}}
+{{< tdopen >}}
+S1 - S14
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q3s_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 4: Materials and Structures
+{{< tdclose >}}
+{{< tdopen >}}
+M1 - M11
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q4m_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 5: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/fall_2003_quiz_5f))
+{{< tdclose >}}
+{{< tdopen >}}
+F1 - F11
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/fall_2003_q5f_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 6: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/fall_2003_q6f))
+{{< tdclose >}}
+{{< tdopen >}}
+F12 - F23
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/fall_2003_q6f_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 7: Materials and Structures
+{{< tdclose >}}
+{{< tdopen >}}
+M12 - M25
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q7m_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### 16.03-16.04
 
-| EXAMS | TOPICS COVERED | SOLUTIONS |
-| --- | --- | --- |
-| Quiz 1: Materials and Structures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1m)) | M1 - M9 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1m_sol)) |
-| Quiz 2: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/q2f)) | F1 - F14 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q2f_sol)) |
-| Quiz 3: Materials and Structures | M10 - M20 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q3m_sol)) |
-| Quiz 4: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/q4f)) | F15 - F21 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q4f_sol)) |
-| Quiz 5: Signals and Systems ([PDF]({{< baseurl >}}/resources/q5s)) | S1 - S12 | (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q5s_sol)) |
-| Quiz 6: Computers and Programming | C1 - C14 | ([PDF]({{< baseurl >}}/resources/q6c_sol)) |
-| Quiz 7: Propulsion | P1 - P9 | ([PDF]({{< baseurl >}}/resources/q7p_sol)) |
-| Quiz 8: Computers and Programming | C15 - C23 | ([PDF]({{< baseurl >}}/resources/q8c_sol)) |
-| Quiz 9: Signals and Systems | S13 - S23 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS COVERED
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1: Materials and Structures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1m))
+{{< tdclose >}}
+{{< tdopen >}}
+M1 - M9
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1m_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/q2f))
+{{< tdclose >}}
+{{< tdopen >}}
+F1 - F14
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q2f_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 3: Materials and Structures
+{{< tdclose >}}
+{{< tdopen >}}
+M10 - M20
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q3m_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 4: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/q4f))
+{{< tdclose >}}
+{{< tdopen >}}
+F15 - F21
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q4f_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 5: Signals and Systems ([PDF]({{< baseurl >}}/resources/q5s))
+{{< tdclose >}}
+{{< tdopen >}}
+S1 - S12
+{{< tdclose >}}
+{{< tdopen >}}
+(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q5s_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 6: Computers and Programming
+{{< tdclose >}}
+{{< tdopen >}}
+C1 - C14
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/q6c_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 7: Propulsion
+{{< tdclose >}}
+{{< tdopen >}}
+P1 - P9
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/q7p_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 8: Computers and Programming
+{{< tdclose >}}
+{{< tdopen >}}
+C15 - C23
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/q8c_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 9: Signals and Systems
+{{< tdclose >}}
+{{< tdopen >}}
+S13 - S23
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

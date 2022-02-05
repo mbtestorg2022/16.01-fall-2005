@@ -52,33 +52,430 @@ The assignments linked in this section, or "Systems Problems", are assigned in a
 16.01-16.02, Fall 2003
 ----------------------
 
-| LEC # | TOPICS | SUPPORTING FILES | MUDDY POINTS | ASSIGNMENTS / SOLUTIONS |
-| --- | --- | --- | --- | --- |
-| S/L1 | Engineering Communications | &nbsp; | Problem SP1-2 ([PDF]({{< baseurl >}}/resources/sp_1_2_fall_2003)) |
-| S/L2 | Engineering Communications (cont.) | &nbsp; | Problem SP1-2 ([PDF]({{< baseurl >}}/resources/sp_1_2_fall_2003)) |
-| S/L3 | Glider Fly-Off | &nbsp; |
-| S/L4 | Water Rocket Lab 1: Water Bottle Rocket Performance Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_notes)) | Design "Cheat Sheet" ([PDF]({{< baseurl >}}/resources/sp4lecture_notes)) | &nbsp; | Problem SP4 ([PDF]({{< baseurl >}}/resources/sp4_fall_2003)) |
-| S/L5 | Water Rocket Lab 2: Concept Design, Concept Selection, Detailed Design ([PDF]({{< baseurl >}}/resources/fall2003sp5lec_2)) | &nbsp; | Problem SP5 ([PDF]({{< baseurl >}}/resources/fall_2003_sp5)) |
-| S/L6 | Water Rocket Lab 3: Water Rocket Implementation and Operation | &nbsp; | Problem SP6 ([PDF]({{< baseurl >}}/resources/fall_2003_sp6)) |
-| S/L7 | Fluids Lab: Wind Tunnel Pilot Measurements ([PDF]({{< baseurl >}}/resources/sp7_notes)) | &nbsp; | S/L7 Mud ([PDF]({{< baseurl >}}/resources/l7_mud)) | Problem SP7 ([PDF]({{< baseurl >}}/resources/fall_2003_sp7)) |
-| S/L9 | Materials and Structures Lab 1: Truss Analysis and Testing | Truss Code ([ZIP](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/Truss_Code.zip)) (The ZIP file contains: array\_exceptions.ads, generic\_real\_arrays.adb, generic\_real\_arrays.ads, generic\_real\_arrays-operations.adb, generic\_real\_arrays-operations.ads, Sample\_Truss\_Input.txt, solve\_my\_truss.adb, truss.adb, truss.ads, Truss\_Input.txt.) | &nbsp; | Problem SP9 ([PDF]({{< baseurl >}}/resources/fall_2003_sp9)) |
-| S/L10 | Materials and Structures Lab 2: Measuring Strain and Material Properties | &nbsp; | Problem SP10 ([PDF]({{< baseurl >}}/resources/fall_2003_sp10)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+{{< thopen >}}
+MUDDY POINTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS / SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L1
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering Communications
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP1-2 ([PDF]({{< baseurl >}}/resources/sp_1_2_fall_2003))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L2
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering Communications (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP1-2 ([PDF]({{< baseurl >}}/resources/sp_1_2_fall_2003))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L3
+{{< tdclose >}}
+{{< tdopen >}}
+Glider Fly-Off
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L4
+{{< tdclose >}}
+{{< tdopen >}}
+Water Rocket Lab 1: Water Bottle Rocket Performance Analysis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_notes))
+{{< tdclose >}}
+{{< tdopen >}}
+Design "Cheat Sheet" ([PDF]({{< baseurl >}}/resources/sp4lecture_notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP4 ([PDF]({{< baseurl >}}/resources/sp4_fall_2003))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L5
+{{< tdclose >}}
+{{< tdopen >}}
+Water Rocket Lab 2: Concept Design, Concept Selection, Detailed Design ([PDF]({{< baseurl >}}/resources/fall2003sp5lec_2))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP5 ([PDF]({{< baseurl >}}/resources/fall_2003_sp5))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L6
+{{< tdclose >}}
+{{< tdopen >}}
+Water Rocket Lab 3: Water Rocket Implementation and Operation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP6 ([PDF]({{< baseurl >}}/resources/fall_2003_sp6))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L7
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids Lab: Wind Tunnel Pilot Measurements ([PDF]({{< baseurl >}}/resources/sp7_notes))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S/L7 Mud ([PDF]({{< baseurl >}}/resources/l7_mud))
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP7 ([PDF]({{< baseurl >}}/resources/fall_2003_sp7))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L9
+{{< tdclose >}}
+{{< tdopen >}}
+Materials and Structures Lab 1: Truss Analysis and Testing
+{{< tdclose >}}
+{{< tdopen >}}
+Truss Code ([ZIP](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/Truss_Code.zip)) (The ZIP file contains: array\_exceptions.ads, generic\_real\_arrays.adb, generic\_real\_arrays.ads, generic\_real\_arrays-operations.adb, generic\_real\_arrays-operations.ads, Sample\_Truss\_Input.txt, solve\_my\_truss.adb, truss.adb, truss.ads, Truss\_Input.txt.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP9 ([PDF]({{< baseurl >}}/resources/fall_2003_sp9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L10
+{{< tdclose >}}
+{{< tdopen >}}
+Materials and Structures Lab 2: Measuring Strain and Material Properties
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP10 ([PDF]({{< baseurl >}}/resources/fall_2003_sp10))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 16.03-16.04, Spring 2004
 ------------------------
 
-| LEC # | TOPICS | SUPPORTING FILES | MUDDY POINTS | ASSIGNMENTS / SOLUTIONS |
-| --- | --- | --- | --- | --- |
-| S/L1 | System Requirements and Teamwork ([PDF]({{< baseurl >}}/resources/sp1_lecture)) | General FRDIARRC Table ([PDF]({{< baseurl >}}/resources/sample_frdiarrc)) (Courtesy of Prof. Alex Slocum. Used with permission.)  {{< br >}}  {{< br >}}Sample FRDIARRC Table ([PDF]({{< baseurl >}}/resources/sample_frdiarrc)) (Courtesy of Prof. Alex Slocum. Used with permission.)  {{< br >}}  {{< br >}}Notes on Memos ([PDF]({{< baseurl >}}/resources/sp1notes_on_memos)) (Courtesy of Jennifer Lynn Craig. Used with permission.)  {{< br >}}  {{< br >}}Teamwork Memo ([PDF]({{< baseurl >}}/resources/teamwork_memo)) (Courtesy of Jennifer Lynn Craig. Used with permission.) | &nbsp; | Problem SP1 ([PDF]({{< baseurl >}}/resources/spring2004_sp1))  {{< br >}}  {{< br >}}Grading Sheet ([PDF]({{< baseurl >}}/resources/sp1grading_rubric)) |
-| S/L2 | Requirements, Teamwork, Competition ([PDF]({{< baseurl >}}/resources/sp2lecture)) | Miller, Alan C., and Kevin Sack. "Far From Battlefield, Marines Lose One-Third of Harrier Fleet," _Los Angeles Times_, December 15, 2002. | &nbsp; | Problem SP2 Part 1 ([PDF]({{< baseurl >}}/resources/sp2_part1))  {{< br >}}  {{< br >}}Grading Sheet ([PDF]({{< baseurl >}}/resources/sp2_1graderubric))  {{< br >}}  {{< br >}}Problem SP2 Part 2 ([PDF]({{< baseurl >}}/resources/sp2_part2))  {{< br >}}  {{< br >}}Grading Sheet ([PDF]({{< baseurl >}}/resources/sp2_2graderubric)) |
-| S/L3 | Fluids Lab: Wind Tunnel Testing of a 3-D Wing | Airfoil Coordinate File ([DAT](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/dfly.dat)) | &nbsp; | Problem SP3 ([PDF]({{< baseurl >}}/resources/spring2004_sp3)) |
-| S/L4 | Engineering Education and Baseline Assessment ([PDF]({{< baseurl >}}/resources/sp4lecture2)) | Assignment Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_asgnt_notes))  {{< br >}}  {{< br >}}RC Design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_rc_design))  {{< br >}}  {{< br >}}Wright Brothers Wind Tunnel Test ([XLS](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/cal_run.xls))  {{< br >}}  {{< br >}}Dragonfly Baseline Performance Assessment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/spl4lecture)) | &nbsp; | Problem SP4 ([PDF]({{< baseurl >}}/resources/spring2004_sp4))  {{< br >}}  {{< br >}}Grading Sheet ([PDF]({{< baseurl >}}/resources/sp4grading_rubirc)) |
-| S/L5 | Materials and Structures Lab: Beam Analysis and Testing | &nbsp; | Problem SP5 ([PDF]({{< baseurl >}}/resources/beamlab04)) |
-| S/L6 | Design 1: Wing and Tail | &nbsp; | Problem SP6 ([PDF]({{< baseurl >}}/resources/spring2004_sp6))  {{< br >}}  {{< br >}}Grading Sheet ([PDF]({{< baseurl >}}/resources/sp6_rubric)) |
-| S/L8 | Design 2: Propulsion, Payload, Operations | &nbsp; | Problem SP8 ([PDF]({{< baseurl >}}/resources/spring2004_sp8))  {{< br >}}  {{< br >}}Grading Sheet ([PDF]({{< baseurl >}}/resources/sp8_rubric)) |
-| S/L9 | Build Report 1 | System Problem 9 Report 1 ([PDF]({{< baseurl >}}/resources/sp9_report1))  {{< br >}}  {{< br >}}Report 1 Grading Sheet ([PDF]({{< baseurl >}}/resources/sp9report1grad)) | &nbsp; | Problem SP9-10 ([PDF]({{< baseurl >}}/resources/spring2004_sp9)) |
-| S/L10 | Build Report 2 | System Problem 10 Report 2 ([PDF]({{< baseurl >}}/resources/sp9_report2))  {{< br >}}  {{< br >}}Report 2 Grading Sheet ([PDF]({{< baseurl >}}/resources/sp9report2grad)) | &nbsp; | Problem SP9-10 ([PDF]({{< baseurl >}}/resources/spring2004_sp9)) |
-| S/L11 | Signals and Systems Lab: Amplitude Modulation | &nbsp; | Problem SP11 ([PDF]({{< baseurl >}}/resources/spring2004_sp11)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING FILES
+{{< thclose >}}
+{{< thopen >}}
+MUDDY POINTS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS / SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L1
+{{< tdclose >}}
+{{< tdopen >}}
+System Requirements and Teamwork ([PDF]({{< baseurl >}}/resources/sp1_lecture))
+{{< tdclose >}}
+{{< tdopen >}}
+General FRDIARRC Table ([PDF]({{< baseurl >}}/resources/sample_frdiarrc)) (Courtesy of Prof. Alex Slocum. Used with permission.)  
+  
+Sample FRDIARRC Table ([PDF]({{< baseurl >}}/resources/sample_frdiarrc)) (Courtesy of Prof. Alex Slocum. Used with permission.)  
+  
+Notes on Memos ([PDF]({{< baseurl >}}/resources/sp1notes_on_memos)) (Courtesy of Jennifer Lynn Craig. Used with permission.)  
+  
+Teamwork Memo ([PDF]({{< baseurl >}}/resources/teamwork_memo)) (Courtesy of Jennifer Lynn Craig. Used with permission.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP1 ([PDF]({{< baseurl >}}/resources/spring2004_sp1))  
+  
+Grading Sheet ([PDF]({{< baseurl >}}/resources/sp1grading_rubric))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L2
+{{< tdclose >}}
+{{< tdopen >}}
+Requirements, Teamwork, Competition ([PDF]({{< baseurl >}}/resources/sp2lecture))
+{{< tdclose >}}
+{{< tdopen >}}
+Miller, Alan C., and Kevin Sack. "Far From Battlefield, Marines Lose One-Third of Harrier Fleet," _Los Angeles Times_, December 15, 2002.
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP2 Part 1 ([PDF]({{< baseurl >}}/resources/sp2_part1))  
+  
+Grading Sheet ([PDF]({{< baseurl >}}/resources/sp2_1graderubric))  
+  
+Problem SP2 Part 2 ([PDF]({{< baseurl >}}/resources/sp2_part2))  
+  
+Grading Sheet ([PDF]({{< baseurl >}}/resources/sp2_2graderubric))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L3
+{{< tdclose >}}
+{{< tdopen >}}
+Fluids Lab: Wind Tunnel Testing of a 3-D Wing
+{{< tdclose >}}
+{{< tdopen >}}
+Airfoil Coordinate File ([DAT](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/dfly.dat))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP3 ([PDF]({{< baseurl >}}/resources/spring2004_sp3))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L4
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering Education and Baseline Assessment ([PDF]({{< baseurl >}}/resources/sp4lecture2))
+{{< tdclose >}}
+{{< tdopen >}}
+Assignment Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_asgnt_notes))  
+  
+RC Design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/sp4_rc_design))  
+  
+Wright Brothers Wind Tunnel Test ([XLS](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/systems-labs-04/cal_run.xls))  
+  
+Dragonfly Baseline Performance Assessment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/spl4lecture))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP4 ([PDF]({{< baseurl >}}/resources/spring2004_sp4))  
+  
+Grading Sheet ([PDF]({{< baseurl >}}/resources/sp4grading_rubirc))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L5
+{{< tdclose >}}
+{{< tdopen >}}
+Materials and Structures Lab: Beam Analysis and Testing
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP5 ([PDF]({{< baseurl >}}/resources/beamlab04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L6
+{{< tdclose >}}
+{{< tdopen >}}
+Design 1: Wing and Tail
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP6 ([PDF]({{< baseurl >}}/resources/spring2004_sp6))  
+  
+Grading Sheet ([PDF]({{< baseurl >}}/resources/sp6_rubric))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L8
+{{< tdclose >}}
+{{< tdopen >}}
+Design 2: Propulsion, Payload, Operations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP8 ([PDF]({{< baseurl >}}/resources/spring2004_sp8))  
+  
+Grading Sheet ([PDF]({{< baseurl >}}/resources/sp8_rubric))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L9
+{{< tdclose >}}
+{{< tdopen >}}
+Build Report 1
+{{< tdclose >}}
+{{< tdopen >}}
+System Problem 9 Report 1 ([PDF]({{< baseurl >}}/resources/sp9_report1))  
+  
+Report 1 Grading Sheet ([PDF]({{< baseurl >}}/resources/sp9report1grad))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP9-10 ([PDF]({{< baseurl >}}/resources/spring2004_sp9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L10
+{{< tdclose >}}
+{{< tdopen >}}
+Build Report 2
+{{< tdclose >}}
+{{< tdopen >}}
+System Problem 10 Report 2 ([PDF]({{< baseurl >}}/resources/sp9_report2))  
+  
+Report 2 Grading Sheet ([PDF]({{< baseurl >}}/resources/sp9report2grad))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP9-10 ([PDF]({{< baseurl >}}/resources/spring2004_sp9))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+S/L11
+{{< tdclose >}}
+{{< tdopen >}}
+Signals and Systems Lab: Amplitude Modulation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Problem SP11 ([PDF]({{< baseurl >}}/resources/spring2004_sp11))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "video" >}}Aerial Competition{{< /anchor >}}
 -------------------------------------------------------

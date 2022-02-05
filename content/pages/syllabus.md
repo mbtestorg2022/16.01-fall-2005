@@ -36,15 +36,116 @@ Learning Objectives
 
 All courses taught in the Department of Aeronautics and Astronautics disclose a set of learning objectives and measurable outcomes. **Learning objectives** describe the expected level of proficiency with syllabus topics that a student should attain. To complement the learning objectives, **measurable outcomes** describe specific ways in which students may be expected to demonstrate such proficiency. Major syllabus topics for each discipline are organized into learning objectives in the table below. The abbreviations provided below are used throughout the course site to refer to the various disciplines.
 
-| DISCIPLINES | ABBREVIATIONS | LEARNING OBJECTIVES |
-| --- | --- | --- |
-| [Computers and Programming]({{< baseurl >}}/pages/comps-programming) | C | 16.01-02, Fall ([PDF]({{< baseurl >}}/resources/learning_objectives_fall_version)) |
-| [Fluid Mechanics]({{< baseurl >}}/pages/fluid-mechanics) | F | 16.01-04, Fall-Spring ([PDF]({{< baseurl >}}/resources/obj)) |
-| [Materials and Structures]({{< baseurl >}}/pages/materials-structures) | M | 16.01-04, Fall-Spring ([PDF]({{< baseurl >}}/resources/fall_2003_ms_lo)) |
-| [Signals and Systems]({{< baseurl >}}/pages/signals-systems) | S | 16.01-02, Fall ([PDF]({{< baseurl >}}/resources/objectives))  {{< br >}}  {{< br >}}16.03-04, Spring ([PDF]({{< baseurl >}}/resources/ss_lo_s04)) |
-| [Systems and Labs]({{< baseurl >}}/pages/systems-labs-04) | S/L | 16.01-02, Fall ([PDF]({{< baseurl >}}/resources/fall_2003_systems_lo)) |
-| [Thermodynamics]({{< baseurl >}}/pages/thermo-propulsion)  {{< br >}}  {{< br >}}[Propulsion]({{< baseurl >}}/pages/thermo-propulsion) | T  {{< br >}}  {{< br >}}P | 16.01-02, Fall ([PDF]({{< baseurl >}}/resources/thermo_1))  {{< br >}}  {{< br >}}16.03-04, Spring ([PDF]({{< baseurl >}}/resources/propulsion_lo)) |
-| [Unified Concepts]({{< baseurl >}}/pages/systems-labs-06) | U |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DISCIPLINES
+{{< thclose >}}
+{{< thopen >}}
+ABBREVIATIONS
+{{< thclose >}}
+{{< thopen >}}
+LEARNING OBJECTIVES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Computers and Programming]({{< baseurl >}}/pages/comps-programming)
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+16.01-02, Fall ([PDF]({{< baseurl >}}/resources/learning_objectives_fall_version))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fluid Mechanics]({{< baseurl >}}/pages/fluid-mechanics)
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+16.01-04, Fall-Spring ([PDF]({{< baseurl >}}/resources/obj))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Materials and Structures]({{< baseurl >}}/pages/materials-structures)
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+16.01-04, Fall-Spring ([PDF]({{< baseurl >}}/resources/fall_2003_ms_lo))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Signals and Systems]({{< baseurl >}}/pages/signals-systems)
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+16.01-02, Fall ([PDF]({{< baseurl >}}/resources/objectives))  
+  
+16.03-04, Spring ([PDF]({{< baseurl >}}/resources/ss_lo_s04))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Systems and Labs]({{< baseurl >}}/pages/systems-labs-04)
+{{< tdclose >}}
+{{< tdopen >}}
+S/L
+{{< tdclose >}}
+{{< tdopen >}}
+16.01-02, Fall ([PDF]({{< baseurl >}}/resources/fall_2003_systems_lo))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Thermodynamics]({{< baseurl >}}/pages/thermo-propulsion)  
+  
+[Propulsion]({{< baseurl >}}/pages/thermo-propulsion)
+{{< tdclose >}}
+{{< tdopen >}}
+T  
+  
+P
+{{< tdclose >}}
+{{< tdopen >}}
+16.01-02, Fall ([PDF]({{< baseurl >}}/resources/thermo_1))  
+  
+16.03-04, Spring ([PDF]({{< baseurl >}}/resources/propulsion_lo))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Unified Concepts]({{< baseurl >}}/pages/systems-labs-06)
+{{< tdclose >}}
+{{< tdopen >}}
+U
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "Table_organization" >}}{{< /anchor >}}Discipline Section Organization
 ---------------------------------------------------------------------------------

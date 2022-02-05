@@ -38,15 +38,144 @@ Teaching and Assessment Methods
 *   I wheeled the CFM56 into class for one of the lectures. The students very much enjoyed this. I find that it prompts a degree of interest and a depth of questioning that I do not get otherwise.
 *   I used homeworks and exams to assess student learning. Each of the homework problems and exams was coded to specific subject learning outcomes. The overall weighting was 10% class participation, 30% homework, 60% quizzes. Also, the use of the PRS system in-class and for the self-assessment activity and the collection of, and response to, all of the mud cards gave me a large amount of data on the class performance. Also, as in the past in Unified, we collected data on time spent on various activities (its primary use is to make sure the class stays within bounds).
 
-| Data Source | Formative | Summative | Feedback for Me |
-| PRS System | X | . | X |
-| Time spent | X | . | X |
-| Self-assessment | X | . | X |
-| Muddiest Part of the Lecture | X | . | X |
-| Homework | X | X | X |
-| Quizzes | . | X | X |
-| End-of-term SEF data | . | . | X |
-| Class attendance | &nbsp; | X 
+{{< tableopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Data Source
+{{< thclose >}}
+{{< thopen >}}
+Formative
+{{< thclose >}}
+{{< thopen >}}
+Summative
+{{< thclose >}}
+{{< thopen >}}
+Feedback for Me
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+PRS System
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+.
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Time spent
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+.
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Self-assessment
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+.
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Muddiest Part of the Lecture
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+.
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homework
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quizzes
+{{< tdclose >}}
+{{< tdopen >}}
+.
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+End-of-term SEF data
+{{< tdclose >}}
+{{< tdopen >}}
+.
+{{< tdclose >}}
+{{< tdopen >}}
+.
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class attendance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+X
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Student Learning
 ----------------
@@ -67,10 +196,213 @@ The performance on the homework (see plot below) and the time spent (see plot be
 5.  _To be able to apply ideal cycle analysis to simple heat engine cycles to estimate thermal efficiency and work as a function of pressures and temperatures at various points in the cycle._  
     Their homework performance and quiz performance (3a, 3b, 3c) on this learning objective were very good.
 
-| Quiz | 1a | 1b | 1c | 1d | 1e | 1f | 1g | 1h | 2 | 3a | 3b | 3c | 4a | 4b | Total |
-| LO# | 4,5 | 4,5 | 4,5 | 1,4 | 1,4 | 1,4 | 5 | 1 | 2,3 | 4,6 | 4,6 | 4,6 | 4 | 4 | na |
-| Mean | 95% | 82% | 78% | 41% | 84% | 85% | 85% | 93% | 75% | 98% | 94% | 80% | 63% | 35% | 75.4% |
-| Weight | 5% | 5% | 5% | 5% | 5% | 5% | 5% | 5% | 16% | 6% | 12% | 6% | 8% | 12% | 100% 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+1a
+{{< tdclose >}}
+{{< tdopen >}}
+1b
+{{< tdclose >}}
+{{< tdopen >}}
+1c
+{{< tdclose >}}
+{{< tdopen >}}
+1d
+{{< tdclose >}}
+{{< tdopen >}}
+1e
+{{< tdclose >}}
+{{< tdopen >}}
+1f
+{{< tdclose >}}
+{{< tdopen >}}
+1g
+{{< tdclose >}}
+{{< tdopen >}}
+1h
+{{< tdclose >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+3a
+{{< tdclose >}}
+{{< tdopen >}}
+3b
+{{< tdclose >}}
+{{< tdopen >}}
+3c
+{{< tdclose >}}
+{{< tdopen >}}
+4a
+{{< tdclose >}}
+{{< tdopen >}}
+4b
+{{< tdclose >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+LO#
+{{< tdclose >}}
+{{< tdopen >}}
+4,5
+{{< tdclose >}}
+{{< tdopen >}}
+4,5
+{{< tdclose >}}
+{{< tdopen >}}
+4,5
+{{< tdclose >}}
+{{< tdopen >}}
+1,4
+{{< tdclose >}}
+{{< tdopen >}}
+1,4
+{{< tdclose >}}
+{{< tdopen >}}
+1,4
+{{< tdclose >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+2,3
+{{< tdclose >}}
+{{< tdopen >}}
+4,6
+{{< tdclose >}}
+{{< tdopen >}}
+4,6
+{{< tdclose >}}
+{{< tdopen >}}
+4,6
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+na
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Mean
+{{< tdclose >}}
+{{< tdopen >}}
+95%
+{{< tdclose >}}
+{{< tdopen >}}
+82%
+{{< tdclose >}}
+{{< tdopen >}}
+78%
+{{< tdclose >}}
+{{< tdopen >}}
+41%
+{{< tdclose >}}
+{{< tdopen >}}
+84%
+{{< tdclose >}}
+{{< tdopen >}}
+85%
+{{< tdclose >}}
+{{< tdopen >}}
+85%
+{{< tdclose >}}
+{{< tdopen >}}
+93%
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+{{< tdopen >}}
+98%
+{{< tdclose >}}
+{{< tdopen >}}
+94%
+{{< tdclose >}}
+{{< tdopen >}}
+80%
+{{< tdclose >}}
+{{< tdopen >}}
+63%
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+{{< tdopen >}}
+75.4%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weight
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+5%
+{{< tdclose >}}
+{{< tdopen >}}
+16%
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+{{< tdopen >}}
+6%
+{{< tdclose >}}
+{{< tdopen >}}
+8%
+{{< tdclose >}}
+{{< tdopen >}}
+12%
+{{< tdclose >}}
+{{< tdopen >}}
+100%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ![Thermodynamics problem set mean scores graph.](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/image009.gif)
 

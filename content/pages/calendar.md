@@ -44,19 +44,124 @@ Most quizzes are scheduled during lecture sessions. However, the final two disci
 {{< anchor "calendar_key" >}}{{< /anchor >}}Calendar Key
 --------------------------------------------------------
 
-| DISCIPLINES | ABBREVIATIONS |
-| --- | --- |
-| [Computers and Programming]({{< baseurl >}}/pages/comps-programming) | C |
-| [Fluid Mechanics]({{< baseurl >}}/pages/fluid-mechanics) | F |
-| [Materials and Structures]({{< baseurl >}}/pages/materials-structures) | M |
-| [Signals and Systems]({{< baseurl >}}/pages/signals-systems) | S |
-| Systems and Labs ([2004]({{< baseurl >}}/pages/systems-labs-04) / [2006]({{< baseurl >}}/pages/systems-labs-06)) | S/L |
-| [Thermodynamics]({{< baseurl >}}/pages/thermo-propulsion)  {{< br >}}  {{< br >}}[Propulsion]({{< baseurl >}}/pages/thermo-propulsion) | T  {{< br >}}  {{< br >}}P |
-| [Unified Concepts]({{< baseurl >}}/pages/unified-concepts) | U |
-| ACTIVITIES | ABBREVIATIONS |
-| [Homework]({{< baseurl >}}/pages/assignments) | HW |
-| Systems Problems ([2004]({{< baseurl >}}/pages/systems-labs-04) / [2006]({{< baseurl >}}/pages/systems-labs-06)) | SP |
-| [Quizzes]({{< baseurl >}}/pages/exams) | Q 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+DISCIPLINES
+{{< thclose >}}
+{{< thopen >}}
+ABBREVIATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Computers and Programming]({{< baseurl >}}/pages/comps-programming)
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Fluid Mechanics]({{< baseurl >}}/pages/fluid-mechanics)
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Materials and Structures]({{< baseurl >}}/pages/materials-structures)
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Signals and Systems]({{< baseurl >}}/pages/signals-systems)
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Systems and Labs ([2004]({{< baseurl >}}/pages/systems-labs-04) / [2006]({{< baseurl >}}/pages/systems-labs-06))
+{{< tdclose >}}
+{{< tdopen >}}
+S/L
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Thermodynamics]({{< baseurl >}}/pages/thermo-propulsion)  
+  
+[Propulsion]({{< baseurl >}}/pages/thermo-propulsion)
+{{< tdclose >}}
+{{< tdopen >}}
+T  
+  
+P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Unified Concepts]({{< baseurl >}}/pages/unified-concepts)
+{{< tdclose >}}
+{{< tdopen >}}
+U
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+ABBREVIATIONS
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Homework]({{< baseurl >}}/pages/assignments)
+{{< tdclose >}}
+{{< tdopen >}}
+HW
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Systems Problems ([2004]({{< baseurl >}}/pages/systems-labs-04) / [2006]({{< baseurl >}}/pages/systems-labs-06))
+{{< tdclose >}}
+{{< tdopen >}}
+SP
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Quizzes]({{< baseurl >}}/pages/exams)
+{{< tdclose >}}
+{{< tdopen >}}
+Q
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "pdf" >}}{{< /anchor >}}Course Calendar (PDF Format)
 ---------------------------------------------------------------
@@ -70,165 +175,2859 @@ Most quizzes are scheduled during lecture sessions. However, the final two disci
 
 ### Fall 2005 Calendar
 
-| SES # | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY |
-| --- | --- | --- | --- | --- | --- |
-| Week 1 |
-| Lecture 1 | &nbsp; | U1 | T1 | F1 |
-| Lecture 2 | &nbsp; | U2 | S/L1 | T2 |
-| Recitation | &nbsp; | U | &nbsp; |
-| Key Dates | &nbsp; | HW 1 out  {{< br >}}  {{< br >}}S/L1 out | &nbsp; |
-| Week 2 |
-| Lecture 1 | F2 | F3 | F4 | T3 | T4 |
-| Lecture 2 | U3 | &nbsp; | U4 | S/L2 | F5 |
-| Recitation | &nbsp; | F | &nbsp; | T | &nbsp; |
-| Key Dates | HW 2 out | HW 1 due | S/L2 out | S/L1 due | &nbsp; |
-| Week 3 |
-| Lecture 1 | &nbsp; | T5 | F6 | T7 | T8 |
-| Lecture 2 | &nbsp; | T6 | S/L3 | F7 |
-| Recitation | &nbsp; | F | &nbsp; | T | &nbsp; |
-| Key Dates | HW 3 out | HW 2 due | S/L3 out | S/L2 due | &nbsp; |
-| Week 4 |
-| Lecture 1 | T9 | T10 | T11 | F10 | F11 |
-| Lecture 2 | F8 | &nbsp; | F9 | S/L4 | T12 |
-| Recitation | &nbsp; | T | &nbsp; | F | &nbsp; |
-| Key Dates | HW 4 out | HW 3 due | S/L4 out | S/L3 due | &nbsp; |
-| Week 5 |
-| Lecture 1 | C1 | C2 | T13 | C3 | Q1F |
-| Lecture 2 | M1 | &nbsp; | M2 | S/L5 | M3 |
-| Recitation | &nbsp; | T | &nbsp; | F | &nbsp; |
-| Key Dates | HW 5 out | HW 4 due | S/L5 out | S/L4 due | &nbsp; |
-| Week 6 |
-| Lecture 1 | &nbsp; | C4 | TR | Q2T |
-| Lecture 2 | &nbsp; | M4 | S/L6 | M5 |
-| Recitation | &nbsp; | C | &nbsp; |
-| Key Dates | &nbsp; | HW 6 out | S/L6 out | S/L5 due | &nbsp; |
-| Week 7 |
-| Lecture 1 | M6 | C6 | C7 | M8 | M9 |
-| Lecture 2 | C5 | &nbsp; | M7 | S/L7 | C8 |
-| Recitation | &nbsp; | M | &nbsp; | C | &nbsp; |
-| Key Dates | HW 7 out | HW 6 due | S/L7 out | S/L6 due | &nbsp; |
-| Week 8 |
-| Lecture 1 | M10 | M11 | C10 | M13 | C11 |
-| Lecture 2 | C9 | &nbsp; | M12 | U5 | M14 |
-| Recitation | &nbsp; | C | &nbsp; | M | &nbsp; |
-| Key Dates | HW 8 out | HW 7 due | S/L8 out | S/L7 due | &nbsp; |
-| Week 9 |
-| Lecture 1 | M15 | M16 | C13 | M18 | Q3M |
-| Lecture 2 | C12 | &nbsp; | M17 | S/L9 | C14 |
-| Recitation | &nbsp; | C | &nbsp; | M | &nbsp; |
-| Key Dates | HW 9 out | HW 8 due | S/L9 out | S/L8 due | &nbsp; |
-| Week 10 |
-| Lecture 1 | M19 | S1 | M20 | S2 | &nbsp; |
-| Lecture 2 | C15 | &nbsp; | C16 | S/L10 | &nbsp; |
-| Recitation | &nbsp; | C | &nbsp; | M | &nbsp; |
-| Key Dates | HW 10 out | HW 9 due | S/L10 out | S/L9 due | &nbsp; |
-| Week 11 |
-| Lecture 1 | M21 | M22 | S4 | S5 | Q4C |
-| Lecture 2 | S3 | &nbsp; | M23 | S/L11 | M24 |
-| Recitation | &nbsp; | S | &nbsp; | C | &nbsp; |
-| Key Dates | HW 11 out | HW 10 due | S/L11 out | S/L10 due | &nbsp; |
-| Week 12 |
-| Lecture 1 | M25 | F12 | F13 | &nbsp; |
-| Lecture 2 | S6 | &nbsp; | S7 | &nbsp; |
-| Recitation | &nbsp; | M | &nbsp; |
-| Key Dates | HW 12 out | HW 11 due | &nbsp; |
-| Week 13 |
-| Lecture 1 | S8 | F15 | F16 | F17 | Q5M |
-| Lecture 2 | F14 | &nbsp; | S9 | &nbsp; | S10 |
-| Recitation | &nbsp; | F | &nbsp; | M | &nbsp; |
-| Key Dates | HW 13 out | HW 12 due | S/L11 due | &nbsp; |
-| Week 14 |
-| Lecture 1 | F18 | F19 | S12 | S13 | F21 |
-| Lecture 2 | S11 | &nbsp; | F20 | &nbsp; | S14 |
-| Recitation | &nbsp; | S | &nbsp; | F | &nbsp; |
-| Key Dates | HW 14 out | HW 13 due | &nbsp; |
-| Week 15 |
-| Lecture 1 | F22 | F23 | F | &nbsp; |
-| Lecture 2 | S15 | &nbsp; | U6 | &nbsp; |
-| Recitation | &nbsp; | S | &nbsp; |
-| Key Dates | HW 15 out | HW 14 due | HW 15 due | &nbsp; |
-| Finals Week |
-| Lecture 1 | &nbsp; | Q6S | &nbsp; |
-| Lecture 2 | &nbsp; | Q7F | &nbsp; |
-| Recitation | &nbsp; |
-| Key Dates | &nbsp; |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+MONDAY
+{{< thclose >}}
+{{< thopen >}}
+TUESDAY
+{{< thclose >}}
+{{< thopen >}}
+WEDNESDAY
+{{< thclose >}}
+{{< thopen >}}
+THURSDAY
+{{< thclose >}}
+{{< thopen >}}
+FRIDAY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 1
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+U1
+{{< tdclose >}}
+{{< tdopen >}}
+T1
+{{< tdclose >}}
+{{< tdopen >}}
+F1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+U2
+{{< tdclose >}}
+{{< tdopen >}}
+S/L1
+{{< tdclose >}}
+{{< tdopen >}}
+T2
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+U
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+HW 1 out  
+  
+S/L1 out
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 2
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+F2
+{{< tdclose >}}
+{{< tdopen >}}
+F3
+{{< tdclose >}}
+{{< tdopen >}}
+F4
+{{< tdclose >}}
+{{< tdopen >}}
+T3
+{{< tdclose >}}
+{{< tdopen >}}
+T4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+U3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+U4
+{{< tdclose >}}
+{{< tdopen >}}
+S/L2
+{{< tdclose >}}
+{{< tdopen >}}
+F5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+T
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 1 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L2 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L1 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 3
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+T5
+{{< tdclose >}}
+{{< tdopen >}}
+F6
+{{< tdclose >}}
+{{< tdopen >}}
+T7
+{{< tdclose >}}
+{{< tdopen >}}
+T8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+T6
+{{< tdclose >}}
+{{< tdopen >}}
+S/L3
+{{< tdclose >}}
+{{< tdopen >}}
+F7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+T
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 3 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L3 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L2 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 4
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+T9
+{{< tdclose >}}
+{{< tdopen >}}
+T10
+{{< tdclose >}}
+{{< tdopen >}}
+T11
+{{< tdclose >}}
+{{< tdopen >}}
+F10
+{{< tdclose >}}
+{{< tdopen >}}
+F11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+F8
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F9
+{{< tdclose >}}
+{{< tdopen >}}
+S/L4
+{{< tdclose >}}
+{{< tdopen >}}
+T12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+T
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 4 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 3 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L4 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L3 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 5
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+C1
+{{< tdclose >}}
+{{< tdopen >}}
+C2
+{{< tdclose >}}
+{{< tdopen >}}
+T13
+{{< tdclose >}}
+{{< tdopen >}}
+C3
+{{< tdclose >}}
+{{< tdopen >}}
+Q1F
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+M1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M2
+{{< tdclose >}}
+{{< tdopen >}}
+S/L5
+{{< tdclose >}}
+{{< tdopen >}}
+M3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+T
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 5 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 4 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L5 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L4 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 6
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C4
+{{< tdclose >}}
+{{< tdopen >}}
+TR
+{{< tdclose >}}
+{{< tdopen >}}
+Q2T
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M4
+{{< tdclose >}}
+{{< tdopen >}}
+S/L6
+{{< tdclose >}}
+{{< tdopen >}}
+M5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+HW 6 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L6 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L5 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 7
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M6
+{{< tdclose >}}
+{{< tdopen >}}
+C6
+{{< tdclose >}}
+{{< tdopen >}}
+C7
+{{< tdclose >}}
+{{< tdopen >}}
+M8
+{{< tdclose >}}
+{{< tdopen >}}
+M9
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M7
+{{< tdclose >}}
+{{< tdopen >}}
+S/L7
+{{< tdclose >}}
+{{< tdopen >}}
+C8
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 7 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 6 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L7 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L6 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 8
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M10
+{{< tdclose >}}
+{{< tdopen >}}
+M11
+{{< tdclose >}}
+{{< tdopen >}}
+C10
+{{< tdclose >}}
+{{< tdopen >}}
+M13
+{{< tdclose >}}
+{{< tdopen >}}
+C11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C9
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M12
+{{< tdclose >}}
+{{< tdopen >}}
+U5
+{{< tdclose >}}
+{{< tdopen >}}
+M14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 8 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 7 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L8 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L7 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 9
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M15
+{{< tdclose >}}
+{{< tdopen >}}
+M16
+{{< tdclose >}}
+{{< tdopen >}}
+C13
+{{< tdclose >}}
+{{< tdopen >}}
+M18
+{{< tdclose >}}
+{{< tdopen >}}
+Q3M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C12
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M17
+{{< tdclose >}}
+{{< tdopen >}}
+S/L9
+{{< tdclose >}}
+{{< tdopen >}}
+C14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 9 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 8 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L9 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L8 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 10
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M19
+{{< tdclose >}}
+{{< tdopen >}}
+S1
+{{< tdclose >}}
+{{< tdopen >}}
+M20
+{{< tdclose >}}
+{{< tdopen >}}
+S2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C15
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C16
+{{< tdclose >}}
+{{< tdopen >}}
+S/L10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 10 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 9 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L10 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L9 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 11
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M21
+{{< tdclose >}}
+{{< tdopen >}}
+M22
+{{< tdclose >}}
+{{< tdopen >}}
+S4
+{{< tdclose >}}
+{{< tdopen >}}
+S5
+{{< tdclose >}}
+{{< tdopen >}}
+Q4C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+S3
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M23
+{{< tdclose >}}
+{{< tdopen >}}
+S/L11
+{{< tdclose >}}
+{{< tdopen >}}
+M24
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 11 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 10 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L11 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L10 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 12
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M25
+{{< tdclose >}}
+{{< tdopen >}}
+F12
+{{< tdclose >}}
+{{< tdopen >}}
+F13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+S6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 12 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 11 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 13
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+S8
+{{< tdclose >}}
+{{< tdopen >}}
+F15
+{{< tdclose >}}
+{{< tdopen >}}
+F16
+{{< tdclose >}}
+{{< tdopen >}}
+F17
+{{< tdclose >}}
+{{< tdopen >}}
+Q5M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+F14
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S9
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 13 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 12 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L11 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 14
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+F18
+{{< tdclose >}}
+{{< tdopen >}}
+F19
+{{< tdclose >}}
+{{< tdopen >}}
+S12
+{{< tdclose >}}
+{{< tdopen >}}
+S13
+{{< tdclose >}}
+{{< tdopen >}}
+F21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+S11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F20
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 14 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 13 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 15
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+F22
+{{< tdclose >}}
+{{< tdopen >}}
+F23
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+S15
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+U6
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 15 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 14 due
+{{< tdclose >}}
+{{< tdopen >}}
+HW 15 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Finals Week
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Q6S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Q7F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Spring 2006 Calendar
 
-| SES # | MONDAY | TUESDAY | WEDNESDAY | THURSDAY | FRIDAY |
-| --- | --- | --- | --- | --- | --- |
-| Week 1 |
-| Lecture 1 | &nbsp; | F1 | F2 | M2 | M3 |
-| Lecture 2 | &nbsp; | M1 | S/L1 | F3 |
-| Recitation | &nbsp; | M | &nbsp; | F | &nbsp; |
-| Key Dates | &nbsp; | HW1 out  {{< br >}}  {{< br >}}S/L1 out |   {{< br >}} | &nbsp; |
-| Week 2 |
-| Lecture 1 | M4 | F5 | F6 | M6 | M7 |
-| Lecture 2 | F4 | &nbsp; | M5 | S/L2 | F7 |
-| Recitation | &nbsp; | M | &nbsp; | F | &nbsp; |
-| Key Dates | HW 2 out | HW1 due | S/L2 out | S/L1 due | &nbsp; |
-| Week 3 |
-| Lecture 1 | &nbsp; | C1 | F9 | F10 | C3 |
-| Lecture 2 | &nbsp; | F8 | C2 | S/L3 | F11 |
-| Recitation | &nbsp; | C | &nbsp; |
-| Key Dates | &nbsp; | HW 2 due  {{< br >}}  {{< br >}}HW 3 out | S/L3 out | S/L2 due | &nbsp; |
-| Week 4 |
-| Lecture 1 | M8 | F12 | C5 | M10 | Q1F |
-| Lecture 2 | C4 | &nbsp; | M9 | S/L4 | C6 |
-| Recitation | &nbsp; | M | &nbsp; | F | &nbsp; |
-| Key Dates | HW 4 out | HW 3 due | S/L4 out | S/L3 due | &nbsp; |
-| Week 5 |
-| Lecture 1 | F13 | F14 | C8 | C9 | Q2M |
-| Lecture 2 | C7 | &nbsp; | F15 | S/L5 | F16 |
-| Recitation | &nbsp; | C | &nbsp; | M | &nbsp; |
-| Key Dates | HW 5 out | HW 4 due | S/L5 out | S/L4 due | &nbsp; |
-| Week 6 |
-| Lecture 1 | F17 | C11 | F18 | F19 | P1 |
-| Lecture 2 | C10 | &nbsp; | C12 | S/L6 | S1 |
-| Recitation | &nbsp; | F | &nbsp; | C | &nbsp; |
-| Key Dates | HW 6 out | HW 5 due | S/L6 out | S/L5 due | &nbsp; |
-| Week 7 |
-| Lecture 1 | P2 | S2 | P3 | S3 | Q3C |
-| Lecture 2 | F20 | &nbsp; | F21 | S/L7 | U |
-| Recitation | &nbsp; | P | &nbsp; | C | &nbsp; |
-| Key Dates | HW 7 out | HW 6 due | S/L7 out | S/L6 due | &nbsp; |
-| Week 8 |
-| Lecture 1 | P4 | M11 | S5 | P5 | Q4F |
-| Lecture 2 | S4 | &nbsp; | M12 | S/L8 | P6 |
-| Recitation | &nbsp; | S | &nbsp; | F | &nbsp; |
-| Key Dates | HW 8 out | HW 7 due | S/L8 out | S/L7 due | &nbsp; |
-| Week 9 |
-| Lecture 1 | M13 | S6 | M14 | P9 | M15 |
-| Lecture 2 | P7 | &nbsp; | P8 | S/L9 | S7 |
-| Recitation | &nbsp; | P | &nbsp; | S | &nbsp; |
-| Key Dates | HW 9 out | HW 8 due | S/L9 out | S/L8 due | &nbsp; |
-| Week 10 |
-| Lecture 1 | &nbsp; | S8 | S9 | Q5P |
-| Lecture 2 | &nbsp; | M16 | S/L10 | S10 |
-| Recitation | &nbsp; | P | &nbsp; |
-| Key Dates | HW 10 out | HW 9 due | S/L 10 out | S/L9 due | &nbsp; |
-| Week 11 |
-| Lecture 1 | M17 | S12 | S13 | M19 | M20 |
-| Lecture 2 | S11 | &nbsp; | M18 | S/L11 | S14 |
-| Recitation | &nbsp; | M | &nbsp; | S | &nbsp; |
-| Key Dates | &nbsp; | HW 10 due | S/L11 out  {{< br >}}  {{< br >}}HW 11 out | S/L10 due | &nbsp; |
-| Week 12 |
-| Lecture 1 | S15 | S16 | C14 | C15 | Q6S |
-| Lecture 2 | C13 | &nbsp; | S17 | S/L12 | C16 |
-| Recitation | &nbsp; | C | &nbsp; | S | &nbsp; |
-| Key Dates | HW 12 out | HW 11 due | S/L12 out | S/L11 due | &nbsp; |
-| Week 13 |
-| Lecture 1 | S16 | C18 | C19 | C20 | Q7M |
-| Lecture 2 | C17 | &nbsp; | S19 | S/L13 | S20 |
-| Recitation | &nbsp; | S | &nbsp; | M | &nbsp; |
-| Key Dates | HW 13 out | HW 12 due | &nbsp; |
-| Week 14 |
-| Lecture 1 | S21 | S22 | C22 | C23 | &nbsp; |
-| Lecture 2 | C21 | &nbsp; | S23 | U | &nbsp; |
-| Recitation | &nbsp; | C | &nbsp; | S | &nbsp; |
-| Key Dates | HW 14 out | HW 13 due | &nbsp; | HW 14 due | &nbsp; |
-| Finals Week |
-| Lecture 1 | &nbsp; | Q6S | &nbsp; |
-| Lecture 2 | &nbsp; | Q9C | &nbsp; |
-| Recitation | &nbsp; |
-| Key Dates | &nbsp; |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+MONDAY
+{{< thclose >}}
+{{< thopen >}}
+TUESDAY
+{{< thclose >}}
+{{< thopen >}}
+WEDNESDAY
+{{< thclose >}}
+{{< thopen >}}
+THURSDAY
+{{< thclose >}}
+{{< thopen >}}
+FRIDAY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 1
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F1
+{{< tdclose >}}
+{{< tdopen >}}
+F2
+{{< tdclose >}}
+{{< tdopen >}}
+M2
+{{< tdclose >}}
+{{< tdopen >}}
+M3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M1
+{{< tdclose >}}
+{{< tdopen >}}
+S/L1
+{{< tdclose >}}
+{{< tdopen >}}
+F3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+HW1 out  
+  
+S/L1 out
+{{< tdclose >}}
+{{< tdopen >}}
+  
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 2
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M4
+{{< tdclose >}}
+{{< tdopen >}}
+F5
+{{< tdclose >}}
+{{< tdopen >}}
+F6
+{{< tdclose >}}
+{{< tdopen >}}
+M6
+{{< tdclose >}}
+{{< tdopen >}}
+M7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+F4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M5
+{{< tdclose >}}
+{{< tdopen >}}
+S/L2
+{{< tdclose >}}
+{{< tdopen >}}
+F7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW1 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L2 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L1 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 3
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C1
+{{< tdclose >}}
+{{< tdopen >}}
+F9
+{{< tdclose >}}
+{{< tdopen >}}
+F10
+{{< tdclose >}}
+{{< tdopen >}}
+C3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F8
+{{< tdclose >}}
+{{< tdopen >}}
+C2
+{{< tdclose >}}
+{{< tdopen >}}
+S/L3
+{{< tdclose >}}
+{{< tdopen >}}
+F11
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+HW 2 due  
+  
+HW 3 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L3 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L2 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 4
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M8
+{{< tdclose >}}
+{{< tdopen >}}
+F12
+{{< tdclose >}}
+{{< tdopen >}}
+C5
+{{< tdclose >}}
+{{< tdopen >}}
+M10
+{{< tdclose >}}
+{{< tdopen >}}
+Q1F
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M9
+{{< tdclose >}}
+{{< tdopen >}}
+S/L4
+{{< tdclose >}}
+{{< tdopen >}}
+C6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 4 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 3 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L4 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L3 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 5
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+F13
+{{< tdclose >}}
+{{< tdopen >}}
+F14
+{{< tdclose >}}
+{{< tdopen >}}
+C8
+{{< tdclose >}}
+{{< tdopen >}}
+C9
+{{< tdclose >}}
+{{< tdopen >}}
+Q2M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F15
+{{< tdclose >}}
+{{< tdopen >}}
+S/L5
+{{< tdclose >}}
+{{< tdopen >}}
+F16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 5 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 4 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L5 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L4 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 6
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+F17
+{{< tdclose >}}
+{{< tdopen >}}
+C11
+{{< tdclose >}}
+{{< tdopen >}}
+F18
+{{< tdclose >}}
+{{< tdopen >}}
+F19
+{{< tdclose >}}
+{{< tdopen >}}
+P1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C10
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C12
+{{< tdclose >}}
+{{< tdopen >}}
+S/L6
+{{< tdclose >}}
+{{< tdopen >}}
+S1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 6 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 5 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L6 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L5 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 7
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+P2
+{{< tdclose >}}
+{{< tdopen >}}
+S2
+{{< tdclose >}}
+{{< tdopen >}}
+P3
+{{< tdclose >}}
+{{< tdopen >}}
+S3
+{{< tdclose >}}
+{{< tdopen >}}
+Q3C
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+F20
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F21
+{{< tdclose >}}
+{{< tdopen >}}
+S/L7
+{{< tdclose >}}
+{{< tdopen >}}
+U
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 7 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 6 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L7 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L6 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 8
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+P4
+{{< tdclose >}}
+{{< tdopen >}}
+M11
+{{< tdclose >}}
+{{< tdopen >}}
+S5
+{{< tdclose >}}
+{{< tdopen >}}
+P5
+{{< tdclose >}}
+{{< tdopen >}}
+Q4F
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+S4
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M12
+{{< tdclose >}}
+{{< tdopen >}}
+S/L8
+{{< tdclose >}}
+{{< tdopen >}}
+P6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+F
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 8 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 7 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L8 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L7 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 9
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M13
+{{< tdclose >}}
+{{< tdopen >}}
+S6
+{{< tdclose >}}
+{{< tdopen >}}
+M14
+{{< tdclose >}}
+{{< tdopen >}}
+P9
+{{< tdclose >}}
+{{< tdopen >}}
+M15
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+P7
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+P8
+{{< tdclose >}}
+{{< tdopen >}}
+S/L9
+{{< tdclose >}}
+{{< tdopen >}}
+S7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 9 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 8 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L9 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L8 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 10
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S8
+{{< tdclose >}}
+{{< tdopen >}}
+S9
+{{< tdclose >}}
+{{< tdopen >}}
+Q5P
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M16
+{{< tdclose >}}
+{{< tdopen >}}
+S/L10
+{{< tdclose >}}
+{{< tdopen >}}
+S10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+P
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 10 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 9 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L 10 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L9 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 11
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+M17
+{{< tdclose >}}
+{{< tdopen >}}
+S12
+{{< tdclose >}}
+{{< tdopen >}}
+S13
+{{< tdclose >}}
+{{< tdopen >}}
+M19
+{{< tdclose >}}
+{{< tdopen >}}
+M20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+S11
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M18
+{{< tdclose >}}
+{{< tdopen >}}
+S/L11
+{{< tdclose >}}
+{{< tdopen >}}
+S14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+HW 10 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L11 out  
+  
+HW 11 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L10 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 12
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+S15
+{{< tdclose >}}
+{{< tdopen >}}
+S16
+{{< tdclose >}}
+{{< tdopen >}}
+C14
+{{< tdclose >}}
+{{< tdopen >}}
+C15
+{{< tdclose >}}
+{{< tdopen >}}
+Q6S
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C13
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S17
+{{< tdclose >}}
+{{< tdopen >}}
+S/L12
+{{< tdclose >}}
+{{< tdopen >}}
+C16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 12 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 11 due
+{{< tdclose >}}
+{{< tdopen >}}
+S/L12 out
+{{< tdclose >}}
+{{< tdopen >}}
+S/L11 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 13
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+S16
+{{< tdclose >}}
+{{< tdopen >}}
+C18
+{{< tdclose >}}
+{{< tdopen >}}
+C19
+{{< tdclose >}}
+{{< tdopen >}}
+C20
+{{< tdclose >}}
+{{< tdopen >}}
+Q7M
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C17
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S19
+{{< tdclose >}}
+{{< tdopen >}}
+S/L13
+{{< tdclose >}}
+{{< tdopen >}}
+S20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+M
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 13 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 12 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Week 14
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+S21
+{{< tdclose >}}
+{{< tdopen >}}
+S22
+{{< tdclose >}}
+{{< tdopen >}}
+C22
+{{< tdclose >}}
+{{< tdopen >}}
+C23
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+C21
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S23
+{{< tdclose >}}
+{{< tdopen >}}
+U
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+HW 14 out
+{{< tdclose >}}
+{{< tdopen >}}
+HW 13 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+HW 14 due
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Finals Week
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Q6S
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Lecture 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Q9C
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Recitation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Dates
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
