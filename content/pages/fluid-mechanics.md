@@ -68,7 +68,7 @@ Anderson. Sections 1.1 (optional), 1.2-1.4.
 {{< tdopen >}}
 Problem F1 ([PDF]({{< baseurl >}}/resources/f01_ps08_fall03))  
   
-Solution F1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF]({{< baseurl >}}/resources/f01_ps08_sol))  
+Solution F1 ( [PDF]({{< baseurl >}}/resources/f01_ps08_sol))  
   
 Survey Results ([PDF]({{< baseurl >}}/resources/poll))
 {{< tdclose >}}
@@ -114,7 +114,7 @@ Anderson. Sections 1.5-1.6.
 {{< tdopen >}}
 Problem F3 ([PDF]({{< baseurl >}}/resources/f03_ps09_fall03))  
   
-Solution F3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f03_ps09_sol))
+Solution F3 ([PDF]({{< baseurl >}}/resources/f03_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,7 +137,7 @@ Anderson. Section 1.7.
 {{< tdopen >}}
 Problem F4 ([PDF]({{< baseurl >}}/resources/f04_ps09_fall03))  
   
-Solution F4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04_ps09_sol))
+Solution F4 ([PDF]({{< baseurl >}}/resources/f04_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +160,7 @@ Anderson. Sections 1.10, 1.11.
 {{< tdopen >}}
 Problem F5 ([PDF]({{< baseurl >}}/resources/f05_ps09_fall03))  
   
-Solution F5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f05_ps09_sol))
+Solution F5 ([PDF]({{< baseurl >}}/resources/f05_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -183,7 +183,7 @@ Anderson. Sections 2.3-2.4.
 {{< tdopen >}}
 Problem F6 ([PDF]({{< baseurl >}}/resources/f06_ps10_fall03))  
   
-Solution F6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f06_ps10_sol))
+Solution F6 ([PDF]({{< baseurl >}}/resources/f06_ps10_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +206,7 @@ Anderson. Section 2.5.
 {{< tdopen >}}
 Problem F7 ([PDF]({{< baseurl >}}/resources/f07_ps10_fall03))  
   
-Solution F7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f07_ps10_sol))
+Solution F7 ([PDF]({{< baseurl >}}/resources/f07_ps10_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -252,7 +252,7 @@ Anderson. Section 2.11.
 {{< tdopen >}}
 Problem F8 ([PDF]({{< baseurl >}}/resources/f08_ps10_fall03))  
   
-Solution F8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f08_ps10_sol))
+Solution F8 ([PDF]({{< baseurl >}}/resources/f08_ps10_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +296,7 @@ Anderson. Sections 2.9-2.10.
 {{< tdopen >}}
 Problem F10 ([PDF]({{< baseurl >}}/resources/f10_ps11_fall03))  
   
-Solution F10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f10_ps11_sol))
+Solution F10 ([PDF]({{< baseurl >}}/resources/f10_ps11_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -319,7 +319,7 @@ Anderson. Sections 2.12-2.13.
 {{< tdopen >}}
 Problem F11 ([PDF]({{< baseurl >}}/resources/f11_ps11_fall03))  
   
-Solution F11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f11_ps11_sol))
+Solution F11 ([PDF]({{< baseurl >}}/resources/f11_ps11_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +342,7 @@ Anderson. Sections 2.14-2.15.
 {{< tdopen >}}
 Problem F12 ([PDF]({{< baseurl >}}/resources/f12_ps12_fall03))  
   
-Solution F12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f12_ps12_sol))
+Solution F12 ([PDF]({{< baseurl >}}/resources/f12_ps12_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -357,7 +357,7 @@ Bernoulli's Equation ([PDF]({{< baseurl >}}/resources/f13_fall))
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f13_mud))
+([PDF]({{< baseurl >}}/resources/f13_mud))
 {{< tdclose >}}
 {{< tdopen >}}
 Anderson. Sections 3.2-3.3.
@@ -365,7 +365,7 @@ Anderson. Sections 3.2-3.3.
 {{< tdopen >}}
 Problem F13 ([PDF]({{< baseurl >}}/resources/f13_ps12_fall03))  
   
-Solution F13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f13_ps12_sol))
+Solution F13 ([PDF]({{< baseurl >}}/resources/f13_ps12_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -374,7 +374,7 @@ Solution F13 (![This resource may not render correctly in a screen reader.](/ima
 F14
 {{< tdclose >}}
 {{< tdopen >}}
-Incompressible and Irrotational Flows (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f14_fall))
+Incompressible and Irrotational Flows ([PDF]({{< baseurl >}}/resources/f14_fall))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -388,7 +388,7 @@ Anderson. Section 3.7.
 {{< tdopen >}}
 Problem F14 ([PDF]({{< baseurl >}}/resources/f14_ps12_fall03))  
   
-Solution F14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f16_ps13_sol))
+Solution F14 ([PDF]({{< baseurl >}}/resources/f16_ps13_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -432,7 +432,7 @@ Anderson. Sections 3.14-3.16.
 {{< tdopen >}}
 Problem F16 ([PDF]({{< baseurl >}}/resources/f16_ps13_fall03))  
   
-Solution F16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f16_ps13_sol))
+Solution F16 ([PDF]({{< baseurl >}}/resources/f16_ps13_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -447,7 +447,7 @@ Flowfield Prediction ([PDF]({{< baseurl >}}/resources/f17_fall))
  
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f17_mud))
+([PDF]({{< baseurl >}}/resources/f17_mud))
 {{< tdclose >}}
 {{< tdopen >}}
 Anderson. Section 3.17.
@@ -455,7 +455,7 @@ Anderson. Section 3.17.
 {{< tdopen >}}
 Problem F17 ([PDF]({{< baseurl >}}/resources/f17_ps13_fall03))  
   
-Solution F17 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f17_ps13_sol))
+Solution F17 ([PDF]({{< baseurl >}}/resources/f17_ps13_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -478,7 +478,7 @@ Anderson. Section 3.17.
 {{< tdopen >}}
 Problem F18 ([PDF]({{< baseurl >}}/resources/f18_ps14_fall03))  
   
-Solution F18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f18_ps14_sol))
+Solution F18 ([PDF]({{< baseurl >}}/resources/f18_ps14_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -501,7 +501,7 @@ Anderson. Sections 4.1-4.3.
 {{< tdopen >}}
 Problem F19 ([PDF]({{< baseurl >}}/resources/f19_ps14_fall03))  
   
-Solution F19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f19_ps14_sol))
+Solution F19 ([PDF]({{< baseurl >}}/resources/f19_ps14_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -526,7 +526,7 @@ Anderson. Sections 3.1-3.3.
 {{< tdopen >}}
 Problem F20 ([PDF]({{< baseurl >}}/resources/f20_ps14_fall03))  
   
-Solution F20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f20_ps14_sol))
+Solution F20 ([PDF]({{< baseurl >}}/resources/f20_ps14_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -549,7 +549,7 @@ Airfoil Polar Relations ([PDF]({{< baseurl >}}/resources/f21_fall))
 {{< tdopen >}}
 Problem F21 ([PDF]({{< baseurl >}}/resources/f21_ps15_fall03))  
   
-Solution F21 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f21_ps15_sol))
+Solution F21 ([PDF]({{< baseurl >}}/resources/f21_ps15_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -603,7 +603,7 @@ Anderson. Sections 4.5-4.6.
 {{< tdopen >}}
 Problem F1 ([PDF]({{< baseurl >}}/resources/f01_ps01_spring04))  
   
-Solution F1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f01_ps01_sol))
+Solution F1 ([PDF]({{< baseurl >}}/resources/f01_ps01_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -626,7 +626,7 @@ Anderson. Sections 4.4, 4.7.
 {{< tdopen >}}
 Problem F2 ([PDF]({{< baseurl >}}/resources/f02_ps01_spring04))  
   
-Solution F2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f02_ps01_sol))
+Solution F2 ([PDF]({{< baseurl >}}/resources/f02_ps01_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -649,7 +649,7 @@ Anderson. Section 4.8.
 {{< tdopen >}}
 Problem F3 ([PDF]({{< baseurl >}}/resources/f03_04_ps2_s04))  
   
-Solution F3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f03_04_ps02_sol))
+Solution F3 ([PDF]({{< baseurl >}}/resources/f03_04_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -672,7 +672,7 @@ Anderson. Sections 4.8-4.9.
 {{< tdopen >}}
 Problem F4 ([PDF]({{< baseurl >}}/resources/f03_04_ps2_s04))  
   
-Solution F4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f03_04_ps02_sol))
+Solution F4 ([PDF]({{< baseurl >}}/resources/f03_04_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -695,7 +695,7 @@ Anderson. Section 5.1.
 {{< tdopen >}}
 Problem F5 ([PDF]({{< baseurl >}}/resources/f05_ps02_spring04))  
   
-Solution F5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f05_ps02_sol))
+Solution F5 ([PDF]({{< baseurl >}}/resources/f05_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -704,7 +704,7 @@ Solution F5 (![This resource may not render correctly in a screen reader.](/imag
 F6
 {{< tdclose >}}
 {{< tdopen >}}
-3D Vortex Filaments, Lifting Line Theory (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f06_sp))
+3D Vortex Filaments, Lifting Line Theory ([PDF]({{< baseurl >}}/resources/f06_sp))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -718,7 +718,7 @@ Anderson. Section 5.1.
 {{< tdopen >}}
 Problem F6 ([PDF]({{< baseurl >}}/resources/f06_ps02_spring04))  
   
-Solution F6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f06_ps02_sol))
+Solution F6 ([PDF]({{< baseurl >}}/resources/f06_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -741,7 +741,7 @@ Anderson. Section 5.3.1.
 {{< tdopen >}}
 Problem F7 ([PDF]({{< baseurl >}}/resources/f07_ps03_spring04))  
   
-Solution F7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f07_ps03_sol))
+Solution F7 ([PDF]({{< baseurl >}}/resources/f07_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -764,7 +764,7 @@ Anderson. Sections 5.3.2-5.3.3.
 {{< tdopen >}}
 Problem F8 ([PDF]({{< baseurl >}}/resources/f08_ps03_spring04))  
   
-Solution F8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f08_ps03_sol))
+Solution F8 ([PDF]({{< baseurl >}}/resources/f08_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -787,7 +787,7 @@ Anderson. Sections 5.3.2-5.3.3.
 {{< tdopen >}}
 Problem F9 ([PDF]({{< baseurl >}}/resources/f09_10_ps03_s04))  
   
-Solution F9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f09_10_ps03_sol))
+Solution F9 ([PDF]({{< baseurl >}}/resources/f09_10_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -798,7 +798,7 @@ F10
 {{< tdopen >}}
 Aircraft Performance Analysis ([PDF]({{< baseurl >}}/resources/f10_sp))  
   
-Drag Estimation Table (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f10drag_sp))
+Drag Estimation Table ([PDF]({{< baseurl >}}/resources/f10drag_sp))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -812,7 +812,7 @@ Drag Estimation Table (![This resource may not render correctly in a screen read
 {{< tdopen >}}
 Problem F10 ([PDF]({{< baseurl >}}/resources/f09_10_ps03_s04))  
   
-Solution F10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f09_10_ps03_sol))
+Solution F10 ([PDF]({{< baseurl >}}/resources/f09_10_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -835,7 +835,7 @@ Anderson. Sections 7.1-7.2.
 {{< tdopen >}}
 Problem F11 ([PDF]({{< baseurl >}}/resources/f11_12_ps04_s04))  
   
-Solution F11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f11_12_ps04_sol))
+Solution F11 ([PDF]({{< baseurl >}}/resources/f11_12_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -858,7 +858,7 @@ Anderson. Sections 2.7, 7.4-7.5.
 {{< tdopen >}}
 Problem F12 ([PDF]({{< baseurl >}}/resources/f11_12_ps04_s04))  
   
-Solution F12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f11_12_ps04_sol))
+Solution F12 ([PDF]({{< baseurl >}}/resources/f11_12_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -881,7 +881,7 @@ Anderson. Sections 7.5-7.6.
 {{< tdopen >}}
 Problem F13 ([PDF]({{< baseurl >}}/resources/f13_ps04_spring04))  
   
-Solution F13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f13_ps04_sol))
+Solution F13 ([PDF]({{< baseurl >}}/resources/f13_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -904,7 +904,7 @@ Anderson. Sections 8.1-8.3.
 {{< tdopen >}}
 Problem F14 ([PDF]({{< baseurl >}}/resources/f14_ps04_spring04))  
   
-Solution F14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f14_ps04_sol))
+Solution F14 ([PDF]({{< baseurl >}}/resources/f14_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -927,7 +927,7 @@ Anderson. Sections 8.4, 8.6.
 {{< tdopen >}}
 Problem F15 ([PDF]({{< baseurl >}}/resources/f15_ps05_spring04))  
   
-Solution F15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f15_ps05_sol))
+Solution F15 ([PDF]({{< baseurl >}}/resources/f15_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -950,7 +950,7 @@ Anderson. Sections 8.6-8.7.
 {{< tdopen >}}
 Problem F16 ([PFD]({{< baseurl >}}/resources/f16_ps05_spring04))  
   
-Solution F16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f16_ps05_sol))
+Solution F16 ([PDF]({{< baseurl >}}/resources/f16_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -973,7 +973,7 @@ Anderson. Sections 9.1-9.2.
 {{< tdopen >}}
 Problem F17 ([PDF]({{< baseurl >}}/resources/f17_18_ps6_s04))  
   
-Solution F17 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f17_18_ps06_sol))
+Solution F17 ([PDF]({{< baseurl >}}/resources/f17_18_ps06_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -996,7 +996,7 @@ Anderson. Sections 9.6-9.7.
 {{< tdopen >}}
 Problem F18 ([PDF]({{< baseurl >}}/resources/f17_18_ps6_s04))  
   
-Solution F18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f17_18_ps06_sol))
+Solution F18 ([PDF]({{< baseurl >}}/resources/f17_18_ps06_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1019,7 +1019,7 @@ Anderson. Sections 10.1-10.2.
 {{< tdopen >}}
 Problem F19 ([PDF]({{< baseurl >}}/resources/f19_ps06_spring04))  
   
-Solution F19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f19_ps06_sol))
+Solution F19 ([PDF]({{< baseurl >}}/resources/f19_ps06_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1042,7 +1042,7 @@ Anderson. Section 10.3.
 {{< tdopen >}}
 Problem F20 ([PDF]({{< baseurl >}}/resources/f20_ps07_spring04))  
   
-Solution F20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f20_ps07_sol))
+Solution F20 ([PDF]({{< baseurl >}}/resources/f20_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}

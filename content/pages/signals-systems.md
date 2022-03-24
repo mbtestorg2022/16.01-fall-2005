@@ -73,14 +73,14 @@ Overview of Signals and Systems, Circuit Elements
 ([PDF]({{< baseurl >}}/resources/s1_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S1 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF]({{< baseurl >}}/resources/s01_lec))  
+S1 Notes ( [PDF]({{< baseurl >}}/resources/s01_lec))  
   
 Linear Algebra Supplement ([PDF]({{< baseurl >}}/resources/linear_algebra))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S1 ([PDF]({{< baseurl >}}/resources/s01_ps04_fall03))  
   
-Solution S1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s1_f03_sol))
+Solution S1 ([PDF]({{< baseurl >}}/resources/s1_f03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,12 +98,12 @@ Circuit Elements (cont.), Kirchhoff's Laws
 ([PDF]({{< baseurl >}}/resources/s2_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S2 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s02_lec))
+S2 Notes ([PDF]({{< baseurl >}}/resources/s02_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S2 ([PDF]({{< baseurl >}}/resources/s02_ps05_fall03))  
   
-Solution S2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s02_ps05_sol))
+Solution S2 ([PDF]({{< baseurl >}}/resources/s02_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,12 +121,12 @@ Kirchhoff's Laws (cont.), Circuit Analysis
 ([PDF]({{< baseurl >}}/resources/s3_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S3 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s03_lec))
+S3 Notes ([PDF]({{< baseurl >}}/resources/s03_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S3 ([PDF]({{< baseurl >}}/resources/s03_ps05_fall03))  
   
-Solution S3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s03_ps05_sol))
+Solution S3 ([PDF]({{< baseurl >}}/resources/s03_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,12 +144,12 @@ The Node Method
 ([PDF]({{< baseurl >}}/resources/s4_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S4 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s04_lec))
+S4 Notes ([PDF]({{< baseurl >}}/resources/s04_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S4 ([PDF]({{< baseurl >}}/resources/s04_ps05_fall03))  
   
-Solution S4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s04_ps05_sol))
+Solution S4 ([PDF]({{< baseurl >}}/resources/s04_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,12 +167,12 @@ The Loop Method
 ([PDF]({{< baseurl >}}/resources/s5_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S5 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s05_lec))
+S5 Notes ([PDF]({{< baseurl >}}/resources/s05_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S5 ([PDF]({{< baseurl >}}/resources/s05_ps05_fall03))  
   
-Solution S5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s05_ps05_sol))
+Solution S5 ([PDF]({{< baseurl >}}/resources/s05_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +190,7 @@ Thevenin and Norton Equivalent Networks
 ([PDF]({{< baseurl >}}/resources/s6_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S6 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF]({{< baseurl >}}/resources/s06_lec))  
+S6 Notes ( [PDF]({{< baseurl >}}/resources/s06_lec))  
   
 Node and Loop Method Supplement ([PDF]({{< baseurl >}}/resources/node_loop_meth))
 {{< tdclose >}}
@@ -218,7 +218,7 @@ S7 Notes ([PDF]({{< baseurl >}}/resources/s07_lec))
 {{< tdopen >}}
 Problem S7 ([PDF]({{< baseurl >}}/resources/s07_ps07_fall03))  
   
-Solution S7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s07_ps07_sol))
+Solution S7 ([PDF]({{< baseurl >}}/resources/s07_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +241,7 @@ S8 Notes ([PDF]({{< baseurl >}}/resources/s08_lec))
 {{< tdopen >}}
 Problem S8 ([PDF]({{< baseurl >}}/resources/s08_ps07_fall03))  
   
-Solution S8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s08_ps07_sol))
+Solution S8 ([PDF]({{< baseurl >}}/resources/s08_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -259,12 +259,12 @@ Circuits with Inductors and Capacitors
 ([PDF]({{< baseurl >}}/resources/s9_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S9 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s09_lec))
+S9 Notes ([PDF]({{< baseurl >}}/resources/s09_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S9 ([PDF]({{< baseurl >}}/resources/s09_ps07_fall03))  
   
-Solution S9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s09_ps07_sol))
+Solution S9 ([PDF]({{< baseurl >}}/resources/s09_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -287,7 +287,7 @@ S10 Notes ([PDF]({{< baseurl >}}/resources/s10_lec))
 {{< tdopen >}}
 Problem S10 ([PDF]({{< baseurl >}}/resources/s10_ps08_fall03))  
   
-Solution S10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s10_ps08_sol))
+Solution S10 ([PDF]({{< baseurl >}}/resources/s10_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -305,14 +305,14 @@ Homogenoeus State Equations
 ([PDF]({{< baseurl >}}/resources/s11_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S11 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s11_lec))  
+S11 Notes ([PDF]({{< baseurl >}}/resources/s11_lec))  
   
 Edwards, et al. Section 5.4.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S11 ([PDF]({{< baseurl >}}/resources/s11_ps08_fall03))  
   
-Solution S11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s11_ps08_sol))
+Solution S11 ([PDF]({{< baseurl >}}/resources/s11_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -330,12 +330,12 @@ More on Finding State Equations, Eigenvalues and Eigenvectors
 ([PDF]({{< baseurl >}}/resources/s12_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S12 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s12_lec))
+S12 Notes ([PDF]({{< baseurl >}}/resources/s12_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S12 ([PDF]({{< baseurl >}}/resources/s12_ps09_fall03))  
   
-Solution S12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s12_ps09_sol))
+Solution S12 ([PDF]({{< baseurl >}}/resources/s12_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -353,12 +353,12 @@ Solving State Equations Using Eigenvalues and Eigenvectors
 ([PDF]({{< baseurl >}}/resources/s13_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S13 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s13_lec))
+S13 Notes ([PDF]({{< baseurl >}}/resources/s13_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S13 ([PDF]({{< baseurl >}}/resources/s13_ps09_fall03))  
   
-Solution S13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s13_ps09_sol))
+Solution S13 ([PDF]({{< baseurl >}}/resources/s13_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -376,13 +376,13 @@ State Equations for Circuits with Sources
 ([PDF]({{< baseurl >}}/resources/s14_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S14 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s14_lec))  
-Transfer Function Supplement (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s15_lec))
+S14 Notes ([PDF]({{< baseurl >}}/resources/s14_lec))  
+Transfer Function Supplement ([PDF]({{< baseurl >}}/resources/s15_lec))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S14 ([PDF]({{< baseurl >}}/resources/s14_ps09_fall03))  
   
-Solution S14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s14_ps09_sol))
+Solution S14 ([PDF]({{< baseurl >}}/resources/s14_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -452,14 +452,14 @@ Linear, Time-Invariant Systems, The Step Response
 ([PDF]({{< baseurl >}}/resources/sp_s1_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S1 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s02))  
+S1 Notes ([PDF]({{< baseurl >}}/resources/s02))  
   
 Oppenheim, et al. Chapter 1.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S1 ([PDF]({{< baseurl >}}/resources/s01_ps07_spring04))  
   
-Solution S1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s01_ps07_sol))
+Solution S1 ([PDF]({{< baseurl >}}/resources/s01_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -477,14 +477,14 @@ Duhamel's Integral
 ([PDF]({{< baseurl >}}/resources/sp_s2_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S2 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s03))  
+S2 Notes ([PDF]({{< baseurl >}}/resources/s03))  
   
 Oppenheim, et al. Section 2.0-2.2.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S2 ([PDF]({{< baseurl >}}/resources/s02_ps07_spring04))  
   
-Solution S2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s02_ps07_sol))
+Solution S2 ([PDF]({{< baseurl >}}/resources/s02_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -502,12 +502,12 @@ Duhamel's Integral (cont.)
 ([PDF]({{< baseurl >}}/resources/sp_s3_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S3 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s04))
+S3 Notes ([PDF]({{< baseurl >}}/resources/s04))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S3 ([PDF]({{< baseurl >}}/resources/s03_ps07_spring04))  
   
-Solution S3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s03_ps07_sol))
+Solution S3 ([PDF]({{< baseurl >}}/resources/s03_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -525,12 +525,12 @@ Impulse Response, Superposition Integral
 ([PDF]({{< baseurl >}}/resources/sp_s4_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S4 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s05))
+S4 Notes ([PDF]({{< baseurl >}}/resources/s05))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S4 ([PDF]({{< baseurl >}}/resources/s04_ps08_spring04))  
   
-Solution S4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s04_ps08_sol))
+Solution S4 ([PDF]({{< baseurl >}}/resources/s04_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -548,12 +548,12 @@ Convolution and LTI Systems
 ([PDF]({{< baseurl >}}/resources/sp_s5_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S5 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s06))
+S5 Notes ([PDF]({{< baseurl >}}/resources/s06))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S5 ([PDF]({{< baseurl >}}/resources/s05_ps08_spring04))  
   
-Solution S5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s05_ps08_sol))
+Solution S5 ([PDF]({{< baseurl >}}/resources/s05_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -571,12 +571,12 @@ Properties of the Impulse, Properties of Convolution
 ([PDF]({{< baseurl >}}/resources/sp_s6_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S6 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s07))
+S6 Notes ([PDF]({{< baseurl >}}/resources/s07))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S6 ([PDF]({{< baseurl >}}/resources/s06_ps08_spring04))  
   
-Solution S6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s06_ps08_sol))
+Solution S6 ([PDF]({{< baseurl >}}/resources/s06_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -594,12 +594,12 @@ Graphical Interpretation of Convolution
 ([PDF]({{< baseurl >}}/resources/sp_s7_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S7 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s07))
+S7 Notes ([PDF]({{< baseurl >}}/resources/s07))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S7 ([PDF]({{< baseurl >}}/resources/s07_ps08_spring04))  
   
-Solution S7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s07_ps08_sol))
+Solution S7 ([PDF]({{< baseurl >}}/resources/s07_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -617,7 +617,7 @@ Response to Exponential Inputs, The Unilateral Laplace Transform
 ([PDF]({{< baseurl >}}/resources/sp_s8_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S8 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s08))
+S8 Notes ([PDF]({{< baseurl >}}/resources/s08))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S8 ([PDF]({{< baseurl >}}/resources/s08_ps09_spring04))  
@@ -640,7 +640,7 @@ Selected Laplace Transforms
 ([PDF]({{< baseurl >}}/resources/sp_s9_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S9 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s09))
+S9 Notes ([PDF]({{< baseurl >}}/resources/s09))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S9 ([PDF]({{< baseurl >}}/resources/s09_ps09_spring04))  
@@ -663,7 +663,7 @@ Properties of the LT, Analysis of Systems Using LTs
 ([PDF]({{< baseurl >}}/resources/sp_s10_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S10 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s10))
+S10 Notes ([PDF]({{< baseurl >}}/resources/s10))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S10 ([PDF]({{< baseurl >}}/resources/s10_ps10_spring04))  
@@ -686,7 +686,7 @@ Partial Fraction Expansions
 ([PDF]({{< baseurl >}}/resources/sp_s11_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S11 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF]({{< baseurl >}}/resources/s11_12))  
+S11 Notes ( [PDF]({{< baseurl >}}/resources/s11_12))  
   
 Phugoid Supplement ([PDF]({{< baseurl >}}/resources/phugoid))
 {{< tdclose >}}
@@ -711,7 +711,7 @@ BIBO Stability and the Region of Convergence
 ([PDF]({{< baseurl >}}/resources/sp_s12_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S12 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s13))
+S12 Notes ([PDF]({{< baseurl >}}/resources/s13))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S12 ([PDF]({{< baseurl >}}/resources/s12_ps10_spring04))  
@@ -734,12 +734,12 @@ The Bilateral Laplace Transform
 ([PDF]({{< baseurl >}}/resources/sp_s13_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S13 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s14))
+S13 Notes ([PDF]({{< baseurl >}}/resources/s14))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S13 ([PDF]({{< baseurl >}}/resources/s13_ps11_spring04))  
   
-Solution S13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s13_ps11_sol))
+Solution S13 ([PDF]({{< baseurl >}}/resources/s13_ps11_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -757,12 +757,12 @@ Examples of the Bilateral LT, The Inverse Laplace Transform
 ([PDF]({{< baseurl >}}/resources/sp_s14_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S14 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s15))
+S14 Notes ([PDF]({{< baseurl >}}/resources/s15))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S14 ([PDF]({{< baseurl >}}/resources/s14_ps12_spring04))  
   
-Solution S14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s14_ps12_sol))
+Solution S14 ([PDF]({{< baseurl >}}/resources/s14_ps12_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -780,14 +780,14 @@ BIBO Stability and the Bilateral LT, The Fourier Transform
 ([PDF]({{< baseurl >}}/resources/sp_s15_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S15 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF]({{< baseurl >}}/resources/s16))  
+S15 Notes ( [PDF]({{< baseurl >}}/resources/s16))  
   
 Oppenheim, et al. Chapter 4.
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S15 ([PDF]({{< baseurl >}}/resources/s15_ps12_spring04))  
   
-Solution S15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s15_ps12_sol))
+Solution S15 ([PDF]({{< baseurl >}}/resources/s15_ps12_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -805,7 +805,7 @@ The Fourier Transform (cont.), Fourier Transform Properties
 ([PDF]({{< baseurl >}}/resources/sp_s16_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S16 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF]({{< baseurl >}}/resources/s17))  
+S16 Notes ( [PDF]({{< baseurl >}}/resources/s17))  
   
 Oppenheim, et al. Chapter 4.
 {{< tdclose >}}
@@ -830,7 +830,7 @@ The Fourier Transform of Special Functions, Convolutions and the FT
 ([PDF]({{< baseurl >}}/resources/sp_s17_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S17 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s18))
+S17 Notes ([PDF]({{< baseurl >}}/resources/s18))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S17 ([PDF]({{< baseurl >}}/resources/s17_ps13_spring04))  
@@ -853,12 +853,12 @@ Modulation, AM-DSB/SC
 ([PDF]({{< baseurl >}}/resources/sp_s18_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S18 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s22))
+S18 Notes ([PDF]({{< baseurl >}}/resources/s22))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S18 ([PDF]({{< baseurl >}}/resources/s18_ps13_spring04))  
   
-Solution S18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s18_ps13_sol))
+Solution S18 ([PDF]({{< baseurl >}}/resources/s18_ps13_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -876,7 +876,7 @@ AM-DSB/WC, Envelope Detection
 ([PDF]({{< baseurl >}}/resources/sp_s19_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S19 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s23))
+S19 Notes ([PDF]({{< baseurl >}}/resources/s23))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S19 ([PDF]({{< baseurl >}}/resources/s19_ps14_spring04))
@@ -897,7 +897,7 @@ Sampling
 ([PDF]({{< baseurl >}}/resources/sp_s20_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S20 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s24))
+S20 Notes ([PDF]({{< baseurl >}}/resources/s24))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S20 ([PDF]({{< baseurl >}}/resources/s20_ps14_spring04))
@@ -918,7 +918,7 @@ Measuring the Size of Signals, Parseval's Theorem
 ([PDF]({{< baseurl >}}/resources/sp_s21_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S21 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s19))
+S21 Notes ([PDF]({{< baseurl >}}/resources/s19))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S21 ([PDF]({{< baseurl >}}/resources/s21_ps14_spring04))  
@@ -941,7 +941,7 @@ The Duration-Bandwidth Relations
 ([PDF]({{< baseurl >}}/resources/sp_s22_mud))
 {{< tdclose >}}
 {{< tdopen >}}
-S22 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s20))
+S22 Notes ([PDF]({{< baseurl >}}/resources/s20))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem S22 ([PDF]({{< baseurl >}}/resources/s22_ps14_spring04))  
@@ -964,7 +964,7 @@ The Duration-Bandwidth Relations (cont.), Loran-C Navigation
  
 {{< tdclose >}}
 {{< tdopen >}}
-S23 Notes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s21))
+S23 Notes ([PDF]({{< baseurl >}}/resources/s21))
 {{< tdclose >}}
 {{< tdopen >}}
  

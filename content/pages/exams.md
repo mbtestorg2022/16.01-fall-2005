@@ -76,7 +76,7 @@ Quiz 3: Signals and Systems
 S1 - S14
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q3s_sol))
+([PDF]({{< baseurl >}}/resources/fall_2003_q3s_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +88,7 @@ Quiz 4: Materials and Structures
 M1 - M11
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q4m_sol))
+([PDF]({{< baseurl >}}/resources/fall_2003_q4m_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ Quiz 7: Materials and Structures
 M12 - M25
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_q7m_sol))
+([PDF]({{< baseurl >}}/resources/fall_2003_q7m_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,13 +151,13 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Quiz 1: Materials and Structures (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1m))
+Quiz 1: Materials and Structures ([PDF]({{< baseurl >}}/resources/q1m))
 {{< tdclose >}}
 {{< tdopen >}}
 M1 - M9
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q1m_sol))
+([PDF]({{< baseurl >}}/resources/q1m_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +169,7 @@ Quiz 2: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/q2f))
 F1 - F14
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q2f_sol))
+([PDF]({{< baseurl >}}/resources/q2f_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -181,7 +181,7 @@ Quiz 3: Materials and Structures
 M10 - M20
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q3m_sol))
+([PDF]({{< baseurl >}}/resources/q3m_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -193,7 +193,7 @@ Quiz 4: Fluid Mechanics ([PDF]({{< baseurl >}}/resources/q4f))
 F15 - F21
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q4f_sol))
+([PDF]({{< baseurl >}}/resources/q4f_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -205,7 +205,7 @@ Quiz 5: Signals and Systems ([PDF]({{< baseurl >}}/resources/q5s))
 S1 - S12
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/q5s_sol))
+([PDF]({{< baseurl >}}/resources/q5s_sol))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -107,7 +107,7 @@ S/L6
 Rover Project Report ([PDF]({{< baseurl >}}/resources/spl6))
 {{< tdclose >}}
 {{< tdopen >}}
-Systems Problem 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/spr_sysprob6))
+Systems Problem 6 ([PDF]({{< baseurl >}}/resources/spr_sysprob6))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +198,7 @@ Systems Problem 5 ([PDF]({{< baseurl >}}/resources/spr_sysprob5))
 S/L6-S/L7
 {{< tdclose >}}
 {{< tdopen >}}
-Wing Optimization ([PDF 1]({{< baseurl >}}/resources/spl7)) ([PDF 2]({{< baseurl >}}/resources/spl7a)) ([PDF 3]({{< baseurl >}}/resources/spl7b)) ([PDF 4]({{< baseurl >}}/resources/spl7c)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [ZIP]({{< baseurl >}}/resources/spl7d))(The ZIP file contains: re040k.pdf, re050k.pdf, re060k.pdf, re080k.pdf, re100k.pdf, re120k.pdf, ue07.pdf, ue08.pdf, ue09.pdf, ue10.pdf, ue11.pdf, ue12.pdf.)
+Wing Optimization ([PDF 1]({{< baseurl >}}/resources/spl7)) ([PDF 2]({{< baseurl >}}/resources/spl7a)) ([PDF 3]({{< baseurl >}}/resources/spl7b)) ([PDF 4]({{< baseurl >}}/resources/spl7c)) ( [ZIP]({{< baseurl >}}/resources/spl7d))(The ZIP file contains: re040k.pdf, re050k.pdf, re060k.pdf, re080k.pdf, re100k.pdf, re120k.pdf, ue07.pdf, ue08.pdf, ue09.pdf, ue10.pdf, ue11.pdf, ue12.pdf.)
 {{< tdclose >}}
 {{< tdopen >}}
 Systems Problem 6 ([PDF]({{< baseurl >}}/resources/spr_sysprob6))  

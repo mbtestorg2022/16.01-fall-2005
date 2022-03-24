@@ -72,7 +72,7 @@ T2 ([PDF]({{< baseurl >}}/resources/t02_ps02_fall03)), T3 ([PDF]({{< baseurl >}}
 {{< tdopen >}}
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2_sol))  
   
-T2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/c02_ps02_sol)), T3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t03_ps02_sol)), T4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t04_ps02_sol)), T5 ([PDF]({{< baseurl >}}/resources/t05_ps02_sol)), C2 ([PDF]({{< baseurl >}}/resources/c02_ps02_sol)), C3 ([PDF]({{< baseurl >}}/resources/c03_ps02_sol)), C4 ([PDF]({{< baseurl >}}/resources/c04_ps02_sol))
+T2 ([PDF]({{< baseurl >}}/resources/c02_ps02_sol)), T3 ([PDF]({{< baseurl >}}/resources/t03_ps02_sol)), T4 ([PDF]({{< baseurl >}}/resources/t04_ps02_sol)), T5 ([PDF]({{< baseurl >}}/resources/t05_ps02_sol)), C2 ([PDF]({{< baseurl >}}/resources/c02_ps02_sol)), C3 ([PDF]({{< baseurl >}}/resources/c03_ps02_sol)), C4 ([PDF]({{< baseurl >}}/resources/c04_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +85,7 @@ T6 ([PDF]({{< baseurl >}}/resources/t06_ps03_fall03)), T7 ([PDF]({{< baseurl >}}
 {{< tdopen >}}
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3_sol))  
   
-T6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t06_ps03_sol)), T7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t07_ps03_sol)), T8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t08_ps03_sol)), T9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t09_ps03_sol)), C5 ([PDF]({{< baseurl >}}/resources/c05_ps03_sol)), C6 ([PDF]({{< baseurl >}}/resources/c06_ps03_sol)), C7 ([PDF]({{< baseurl >}}/resources/c07_ps03_sol))
+T6 ([PDF]({{< baseurl >}}/resources/t06_ps03_sol)), T7 ([PDF]({{< baseurl >}}/resources/t07_ps03_sol)), T8 ([PDF]({{< baseurl >}}/resources/t08_ps03_sol)), T9 ([PDF]({{< baseurl >}}/resources/t09_ps03_sol)), C5 ([PDF]({{< baseurl >}}/resources/c05_ps03_sol)), C6 ([PDF]({{< baseurl >}}/resources/c06_ps03_sol)), C7 ([PDF]({{< baseurl >}}/resources/c07_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ T10 ([PDF]({{< baseurl >}}/resources/t10_ps04_fall03)), T11 ([PDF]({{< baseurl >
 {{< tdopen >}}
 Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4_sol_))  
   
-T10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t10_ps04_sol)), T11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t11_ps04_sol)), T12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t12_ps04_sol)), C8 ([PDF]({{< baseurl >}}/resources/c08_ps04_sol)), C9 ([PDF]({{< baseurl >}}/resources/c09_ps04_sol)), C10 ([PDF]({{< baseurl >}}/resources/c10_ps04_sol)), S1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s1_f03_sol))
+T10 ([PDF]({{< baseurl >}}/resources/t10_ps04_sol)), T11 ([PDF]({{< baseurl >}}/resources/t11_ps04_sol)), T12 ([PDF]({{< baseurl >}}/resources/t12_ps04_sol)), C8 ([PDF]({{< baseurl >}}/resources/c08_ps04_sol)), C9 ([PDF]({{< baseurl >}}/resources/c09_ps04_sol)), C10 ([PDF]({{< baseurl >}}/resources/c10_ps04_sol)), S1 ([PDF]({{< baseurl >}}/resources/s1_f03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -111,7 +111,7 @@ C11 ([PDF]({{< baseurl >}}/resources/c11_ps05_fall03)), C12 ([PDF]({{< baseurl >
 {{< tdopen >}}
 Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset5_sol))  
   
-C11 ([PDF]({{< baseurl >}}/resources/c11_ps05_sol)), C12 ([PDF]({{< baseurl >}}/resources/c12_ps05_sol)), C13 ([PDF]({{< baseurl >}}/resources/c13_ps05_sol)), S2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s02_ps05_sol)), S3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s03_ps05_sol)), S4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s04_ps05_sol)), S5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s05_ps05_sol))
+C11 ([PDF]({{< baseurl >}}/resources/c11_ps05_sol)), C12 ([PDF]({{< baseurl >}}/resources/c12_ps05_sol)), C13 ([PDF]({{< baseurl >}}/resources/c13_ps05_sol)), S2 ([PDF]({{< baseurl >}}/resources/s02_ps05_sol)), S3 ([PDF]({{< baseurl >}}/resources/s03_ps05_sol)), S4 ([PDF]({{< baseurl >}}/resources/s04_ps05_sol)), S5 ([PDF]({{< baseurl >}}/resources/s05_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ C14 ([PDF]({{< baseurl >}}/resources/c14_ps06_fall03)), C15 ([PDF]({{< baseurl >
 {{< tdopen >}}
 Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset6_sol))  
   
-C14 ([PDF]({{< baseurl >}}/resources/c14_ps06_sol)), C15 ([PDF]({{< baseurl >}}/resources/c15_ps06_sol)), C16 ([PDF]({{< baseurl >}}/resources/c16_ps06_sol)), M1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m01_ps06_sol)), U2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/u02_ps06_sol))
+C14 ([PDF]({{< baseurl >}}/resources/c14_ps06_sol)), C15 ([PDF]({{< baseurl >}}/resources/c15_ps06_sol)), C16 ([PDF]({{< baseurl >}}/resources/c16_ps06_sol)), M1 ([PDF]({{< baseurl >}}/resources/m01_ps06_sol)), U2 ([PDF]({{< baseurl >}}/resources/u02_ps06_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -135,9 +135,9 @@ Problem Set 7 ([PDF]({{< baseurl >}}/resources/spring04_pset7))
 M2 ([PDF]({{< baseurl >}}/resources/s08_ps07_fall03)), M3 ([PDF]({{< baseurl >}}/resources/m03_ps07_fall03)), M4 ([PDF]({{< baseurl >}}/resources/m04_ps07_fall03)), S7 ([PDF]({{< baseurl >}}/resources/s07_ps07_fall03)), S8 ([PDF]({{< baseurl >}}/resources/s08_ps07_fall03)), S9 ([PDF]({{< baseurl >}}/resources/s09_ps07_fall03)), U3 ([PDF]({{< baseurl >}}/resources/u03_ps07_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset7_sol))  
+Problem Set 7 ([PDF]({{< baseurl >}}/resources/pset7_sol))  
   
-M2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m02_ps07_sol)), M3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m03_ps07_sol)), M4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m04_ps07_sol)), S7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s07_ps07_sol)), S8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s08_ps07_sol)), S9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s09_ps07_sol)), U3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/u03_ps07_sol))
+M2 ([PDF]({{< baseurl >}}/resources/m02_ps07_sol)), M3 ([PDF]({{< baseurl >}}/resources/m03_ps07_sol)), M4 ([PDF]({{< baseurl >}}/resources/m04_ps07_sol)), S7 ([PDF]({{< baseurl >}}/resources/s07_ps07_sol)), S8 ([PDF]({{< baseurl >}}/resources/s08_ps07_sol)), S9 ([PDF]({{< baseurl >}}/resources/s09_ps07_sol)), U3 ([PDF]({{< baseurl >}}/resources/u03_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,9 +148,9 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/fall_2003_pset8))
 S10 ([PDF]({{< baseurl >}}/resources/s10_ps08_fall03)), S11 ([PDF]({{< baseurl >}}/resources/s11_ps08_fall03)), F1 ([PDF]({{< baseurl >}}/resources/f01_ps08_fall03)), M5 ([PDF]({{< baseurl >}}/resources/m05_ps08_fall03)), M6 ([PDF]({{< baseurl >}}/resources/m06_ps08_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset8_sol))  
+Problem Set 8 ([PDF]({{< baseurl >}}/resources/pset8_sol))  
   
-S10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s10_ps08_sol)), S11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s11_ps08_sol)), F1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f01_ps08_sol)), M5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m05_ps08_sol)), M6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m06_ps08_sol))
+S10 ([PDF]({{< baseurl >}}/resources/s10_ps08_sol)), S11 ([PDF]({{< baseurl >}}/resources/s11_ps08_sol)), F1 ([PDF]({{< baseurl >}}/resources/f01_ps08_sol)), M5 ([PDF]({{< baseurl >}}/resources/m05_ps08_sol)), M6 ([PDF]({{< baseurl >}}/resources/m06_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,9 +161,9 @@ Problem Set 9 ([PDF]({{< baseurl >}}/resources/fall_2003_pset9))
 F3 ([PDF]({{< baseurl >}}/resources/f03_ps09_fall03)), F4 ([PDF]({{< baseurl >}}/resources/f04_ps09_fall03)), F5 ([PDF]({{< baseurl >}}/resources/f05_ps09_fall03)), M7 ([PDF]({{< baseurl >}}/resources/m07_ps09_fall03)), S12 ([PDF]({{< baseurl >}}/resources/s12_ps09_fall03)), S13 ([PDF]({{< baseurl >}}/resources/s13_ps09_fall03)), S14 ([PDF]({{< baseurl >}}/resources/s14_ps09_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset9_sol))  
+Problem Set 9 ([PDF]({{< baseurl >}}/resources/pset9_sol))  
   
-F3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f03_ps09_sol)), F4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f04_ps09_sol)), F5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f05_ps09_sol)), M7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m07_ps09_sol)), S12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s12_ps09_sol)), S13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s13_ps09_sol)), S14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s14_ps09_sol))
+F3 ([PDF]({{< baseurl >}}/resources/f03_ps09_sol)), F4 ([PDF]({{< baseurl >}}/resources/f04_ps09_sol)), F5 ([PDF]({{< baseurl >}}/resources/f05_ps09_sol)), M7 ([PDF]({{< baseurl >}}/resources/m07_ps09_sol)), S12 ([PDF]({{< baseurl >}}/resources/s12_ps09_sol)), S13 ([PDF]({{< baseurl >}}/resources/s13_ps09_sol)), S14 ([PDF]({{< baseurl >}}/resources/s14_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,9 +174,9 @@ Problem Set 10 ([PDF]({{< baseurl >}}/resources/fall_2003_pset10))
 F6 ([PDF]({{< baseurl >}}/resources/f06_ps10_fall03)), F7 ([PDF]({{< baseurl >}}/resources/f07_ps10_fall03)), F8 ([PDF]({{< baseurl >}}/resources/m08_ps10_fall03)), M8 ([PDF]({{< baseurl >}}/resources/m08_ps10_fall03)), M9 ([PDF]({{< baseurl >}}/resources/m09_ps10_fall03)), M10 ([PDF]({{< baseurl >}}/resources/m10_ps10_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset10_sol))  
+Problem Set 10 ([PDF]({{< baseurl >}}/resources/pset10_sol))  
   
-F6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f06_ps10_sol)), F7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f07_ps10_sol)), F8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f08_ps10_sol)), M8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m08_ps10_sol)), M9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m09_ps10_sol)), M10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m10_ps10_sol))
+F6 ([PDF]({{< baseurl >}}/resources/f06_ps10_sol)), F7 ([PDF]({{< baseurl >}}/resources/f07_ps10_sol)), F8 ([PDF]({{< baseurl >}}/resources/f08_ps10_sol)), M8 ([PDF]({{< baseurl >}}/resources/m08_ps10_sol)), M9 ([PDF]({{< baseurl >}}/resources/m09_ps10_sol)), M10 ([PDF]({{< baseurl >}}/resources/m10_ps10_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,22 +187,22 @@ Problem Set 11 ([PDF]({{< baseurl >}}/resources/fall_2003_pset11))
 F10 ([PDF]({{< baseurl >}}/resources/f10_ps11_fall03)), F11 ([PDF]({{< baseurl >}}/resources/f11_ps11_fall03)), M11 ([PDF]({{< baseurl >}}/resources/f11_ps11_fall03)), M12 ([PDF]({{< baseurl >}}/resources/m12_ps11_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset11_sol))  
+Problem Set 11 ([PDF]({{< baseurl >}}/resources/pset11_sol))  
   
-F10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f10_ps11_sol)), F11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f11_ps11_sol)), M12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m12_ps11_sol))
+F10 ([PDF]({{< baseurl >}}/resources/f10_ps11_sol)), F11 ([PDF]({{< baseurl >}}/resources/f11_ps11_sol)), M12 ([PDF]({{< baseurl >}}/resources/m12_ps11_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/fall_2003_pset12))  
+Problem Set 12 ([PDF]({{< baseurl >}}/resources/fall_2003_pset12))  
   
 F12 ([PDF]({{< baseurl >}}/resources/f12_ps12_fall03)), F13 ([PDF]({{< baseurl >}}/resources/f13_ps12_fall03)), M13 ([PDF]({{< baseurl >}}/resources/m13_ps12_fall03)), M14 ([PDF]({{< baseurl >}}/resources/m14_ps12_fall03)), M15 ([PDF]({{< baseurl >}}/resources/m15_ps12_fall03)), M16 ([PDF]({{< baseurl >}}/resources/m16_ps12_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset12_sol))  
+Problem Set 12 ([PDF]({{< baseurl >}}/resources/pset12_sol))  
   
-F12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f12_ps12_sol)), F13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f13_ps12_sol)), M13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m13_ps12_sol)), M14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m14_ps12_sol)), M15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m15_ps12_sol)), M16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m16_ps12_sol))
+F12 ([PDF]({{< baseurl >}}/resources/f12_ps12_sol)), F13 ([PDF]({{< baseurl >}}/resources/f13_ps12_sol)), M13 ([PDF]({{< baseurl >}}/resources/m13_ps12_sol)), M14 ([PDF]({{< baseurl >}}/resources/m14_ps12_sol)), M15 ([PDF]({{< baseurl >}}/resources/m15_ps12_sol)), M16 ([PDF]({{< baseurl >}}/resources/m16_ps12_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -213,9 +213,9 @@ Problem Set 13 ([PDF]({{< baseurl >}}/resources/fall_2003_pset13))
 F16 ([PDF]({{< baseurl >}}/resources/f16_ps13_fall03)), F17 ([PDF]({{< baseurl >}}/resources/f17_ps13_fall03)), M17 ([PDF]({{< baseurl >}}/resources/m17_ps13_fall03)), M18 ([PDF]({{< baseurl >}}/resources/m18_ps13_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset13_sol))  
+Problem Set 13 ([PDF]({{< baseurl >}}/resources/pset13_sol))  
   
-F16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f16_ps13_sol)), F17 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f17_ps13_sol)), M17 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m17_ps13_sol)), M18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m18_ps13_sol))
+F16 ([PDF]({{< baseurl >}}/resources/f16_ps13_sol)), F17 ([PDF]({{< baseurl >}}/resources/f17_ps13_sol)), M17 ([PDF]({{< baseurl >}}/resources/m17_ps13_sol)), M18 ([PDF]({{< baseurl >}}/resources/m18_ps13_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -226,9 +226,9 @@ Problem Set 14 ([PDF]({{< baseurl >}}/resources/fall_2003_pset14))
 F18 ([PDF]({{< baseurl >}}/resources/f18_ps14_fall03)), F19 ([PDF]({{< baseurl >}}/resources/f19_ps14_fall03)), F20 ([PDF]({{< baseurl >}}/resources/f20_ps14_fall03)), M19 ([PDF]({{< baseurl >}}/resources/m19_ps14_fall03)), M20 ([PDF]({{< baseurl >}}/resources/m20_ps14_fall03)), M21 ([PDF]({{< baseurl >}}/resources/m21_ps14_fall03)), U4 ([PDF]({{< baseurl >}}/resources/u05_ps14_fall03))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset14_sol))  
+Problem Set 14 ([PDF]({{< baseurl >}}/resources/pset14_sol))  
   
-F18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f18_ps14_sol)), F19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f19_ps14_sol)), F20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f20_ps14_sol)), M19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m19_ps14_sol)), M20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m20_ps14_sol)), M21 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m21_ps14_sol))
+F18 ([PDF]({{< baseurl >}}/resources/f18_ps14_sol)), F19 ([PDF]({{< baseurl >}}/resources/f19_ps14_sol)), F20 ([PDF]({{< baseurl >}}/resources/f20_ps14_sol)), M19 ([PDF]({{< baseurl >}}/resources/m19_ps14_sol)), M20 ([PDF]({{< baseurl >}}/resources/m20_ps14_sol)), M21 ([PDF]({{< baseurl >}}/resources/m21_ps14_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -241,7 +241,7 @@ F21 ([PDF]({{< baseurl >}}/resources/f21_ps15_fall03)), F22 ([PDF]({{< baseurl >
 {{< tdopen >}}
 Problem Set 15 ([PDF]({{< baseurl >}}/resources/pset15_sol))  
   
-F21 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f21_ps15_sol)), F22 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f22_ps15_sol)), M23 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m23_ps15_sol)), M24 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m24_ps15_sol)), M25 ([PDF]({{< baseurl >}}/resources/m25_ps15_sol))
+F21 ([PDF]({{< baseurl >}}/resources/f21_ps15_sol)), F22 ([PDF]({{< baseurl >}}/resources/f22_ps15_sol)), M23 ([PDF]({{< baseurl >}}/resources/m23_ps15_sol)), M24 ([PDF]({{< baseurl >}}/resources/m24_ps15_sol)), M25 ([PDF]({{< baseurl >}}/resources/m25_ps15_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -270,9 +270,9 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/spring04_pset1))
 F1 ([PDF]({{< baseurl >}}/resources/f01_ps01_spring04)), F2 ([PDF]({{< baseurl >}}/resources/f02_ps01_spring04)), M1 ([PDF]({{< baseurl >}}/resources/m01_ps01_spring04)), M2 ([PDF]({{< baseurl >}}/resources/m02_ps01_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset1_sol_04))  
+Problem Set 1 ([PDF]({{< baseurl >}}/resources/pset1_sol_04))  
   
-F1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f01_ps01_sol)), F2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f02_ps01_sol)), M1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m01_ps01_sol)), M2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m02_ps01_sol))
+F1 ([PDF]({{< baseurl >}}/resources/f01_ps01_sol)), F2 ([PDF]({{< baseurl >}}/resources/f02_ps01_sol)), M1 ([PDF]({{< baseurl >}}/resources/m01_ps01_sol)), M2 ([PDF]({{< baseurl >}}/resources/m02_ps01_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -283,9 +283,9 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/spring04_pset2))
 F3-F4 ([PDF]({{< baseurl >}}/resources/f03_04_ps2_s04)), F5 ([PDF]({{< baseurl >}}/resources/f05_ps02_spring04)), F6 ([PDF]({{< baseurl >}}/resources/f06_ps02_spring04)), M3 ([PDF]({{< baseurl >}}/resources/m03_ps02_spring04)), M4 ([PDF]({{< baseurl >}}/resources/m04_ps02_spring04)), M5 ([PDF]({{< baseurl >}}/resources/m05_ps02_spring04)), M6 ([PDF]({{< baseurl >}}/resources/m06_ps02_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset2_sol_04))  
+Problem Set 2 ([PDF]({{< baseurl >}}/resources/pset2_sol_04))  
   
-F3-F4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f03_04_ps02_sol)), F5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f05_ps02_sol)), F6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f06_ps02_sol)), M3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m03_ps02_sol)), M4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m04_ps02_sol)), M5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m05_ps02_sol)), M6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m06_ps02_sol))
+F3-F4 ([PDF]({{< baseurl >}}/resources/f03_04_ps02_sol)), F5 ([PDF]({{< baseurl >}}/resources/f05_ps02_sol)), F6 ([PDF]({{< baseurl >}}/resources/f06_ps02_sol)), M3 ([PDF]({{< baseurl >}}/resources/m03_ps02_sol)), M4 ([PDF]({{< baseurl >}}/resources/m04_ps02_sol)), M5 ([PDF]({{< baseurl >}}/resources/m05_ps02_sol)), M6 ([PDF]({{< baseurl >}}/resources/m06_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,9 +296,9 @@ Problem Set 3 ([PDF]({{< baseurl >}}/resources/spring04_pset3))
 F7 ([PDF]({{< baseurl >}}/resources/f07_ps03_spring04)), F8 ([PDF]({{< baseurl >}}/resources/f08_ps03_spring04)), F9-F10 ([PDF]({{< baseurl >}}/resources/f09_10_ps03_s04)), M7-M8 ([PDF]({{< baseurl >}}/resources/m07_08_ps03_s04)), M9 ([PDF]({{< baseurl >}}/resources/m09_ps03_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset3_sol_04))  
+Problem Set 3 ([PDF]({{< baseurl >}}/resources/pset3_sol_04))  
   
-F7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f07_ps03_sol)), F8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f08_ps03_sol)), F9-F10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f09_10_ps03_sol)), M7-M8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m07_08_ps03_sol)), M9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m09_ps03_sol))
+F7 ([PDF]({{< baseurl >}}/resources/f07_ps03_sol)), F8 ([PDF]({{< baseurl >}}/resources/f08_ps03_sol)), F9-F10 ([PDF]({{< baseurl >}}/resources/f09_10_ps03_sol)), M7-M8 ([PDF]({{< baseurl >}}/resources/m07_08_ps03_sol)), M9 ([PDF]({{< baseurl >}}/resources/m09_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -309,9 +309,9 @@ Problem Set 4 ([PDF]({{< baseurl >}}/resources/spring04_pset4))
 F11-F12 ([PDF]({{< baseurl >}}/resources/f11_12_ps04_s04)), F13 ([PDF]({{< baseurl >}}/resources/f13_ps04_spring04)), F14 ([PDF]({{< baseurl >}}/resources/f14_ps04_spring04)), M10 ([PDF]({{< baseurl >}}/resources/m10_ps04_spring04)), M11 ([PDF]({{< baseurl >}}/resources/m11_ps04_spring04)), M12 ([PDF]({{< baseurl >}}/resources/m12_ps04_spring04)), M13 ([PDF]({{< baseurl >}}/resources/m13_ps04_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset4_sol_04))  
+Problem Set 4 ([PDF]({{< baseurl >}}/resources/pset4_sol_04))  
   
-F11-F12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f11_12_ps04_sol)), F13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f13_ps04_sol)), F14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f14_ps04_sol)), M10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m10_ps04_sol)), M11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m11_ps04_sol)), M12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m12_ps04_sol)), M13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m13_ps04_sol))
+F11-F12 ([PDF]({{< baseurl >}}/resources/f11_12_ps04_sol)), F13 ([PDF]({{< baseurl >}}/resources/f13_ps04_sol)), F14 ([PDF]({{< baseurl >}}/resources/f14_ps04_sol)), M10 ([PDF]({{< baseurl >}}/resources/m10_ps04_sol)), M11 ([PDF]({{< baseurl >}}/resources/m11_ps04_sol)), M12 ([PDF]({{< baseurl >}}/resources/m12_ps04_sol)), M13 ([PDF]({{< baseurl >}}/resources/m13_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -322,9 +322,9 @@ Problem Set 5 ([PDF]({{< baseurl >}}/resources/spring04_pset5))
 F15 ([PDF]({{< baseurl >}}/resources/f15_ps05_spring04)), F16 ([PDF]({{< baseurl >}}/resources/f16_ps05_spring04)), M14 ([PDF]({{< baseurl >}}/resources/m14_ps05_spring04)), M15 ([PDF]({{< baseurl >}}/resources/m15_ps05_spring04)), M16 ([PDF]({{< baseurl >}}/resources/m16_ps05_spring04)), M17 ([PDF]({{< baseurl >}}/resources/m17_ps05_spring04)), M18 ([PDF]({{< baseurl >}}/resources/m18_ps05_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset5_sol_04))  
+Problem Set 5 ([PDF]({{< baseurl >}}/resources/pset5_sol_04))  
   
-F15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f15_ps05_sol)), F16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f16_ps05_sol)), M14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m14_ps05_sol)), M15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m15_ps05_sol)), M16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m16_ps05_sol)), M17 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m17_ps05_sol)), M18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m18_ps05_sol))
+F15 ([PDF]({{< baseurl >}}/resources/f15_ps05_sol)), F16 ([PDF]({{< baseurl >}}/resources/f16_ps05_sol)), M14 ([PDF]({{< baseurl >}}/resources/m14_ps05_sol)), M15 ([PDF]({{< baseurl >}}/resources/m15_ps05_sol)), M16 ([PDF]({{< baseurl >}}/resources/m16_ps05_sol)), M17 ([PDF]({{< baseurl >}}/resources/m17_ps05_sol)), M18 ([PDF]({{< baseurl >}}/resources/m18_ps05_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -335,9 +335,9 @@ Problem Set 6 ([PDF]({{< baseurl >}}/resources/spring04_pset6))
 F17-F18 ([PDF]({{< baseurl >}}/resources/f17_18_ps6_s04)), F19 ([PDF]({{< baseurl >}}/resources/f19_ps06_spring04)), M19 ([PDF]({{< baseurl >}}/resources/m19_ps06_spring04)), M20 ([PDF]({{< baseurl >}}/resources/m20_ps06_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset6_sol_04))  
+Problem Set 6 ([PDF]({{< baseurl >}}/resources/pset6_sol_04))  
   
-F17-F18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f17_18_ps06_sol)), F19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f19_ps06_sol)), M19 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m19_ps06_sol)), M20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/m20_ps06_sol))
+F17-F18 ([PDF]({{< baseurl >}}/resources/f17_18_ps06_sol)), F19 ([PDF]({{< baseurl >}}/resources/f19_ps06_sol)), M19 ([PDF]({{< baseurl >}}/resources/m19_ps06_sol)), M20 ([PDF]({{< baseurl >}}/resources/m20_ps06_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +350,7 @@ C2-C4 ([PDF]({{< baseurl >}}/resources/cp2_4_ps07_s04)), F20 ([PDF]({{< baseurl 
 {{< tdopen >}}
 Problem Set 7 ([PDF]({{< baseurl >}}/resources/pset7_sol_04))  
   
-C2-C4 ([PDF]({{< baseurl >}}/resources/cp2_4_ps07_sol)), F20 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/f20_ps07_sol)), S1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s01_ps07_sol)), S2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s02_ps07_sol)), S3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s03_ps07_sol))
+C2-C4 ([PDF]({{< baseurl >}}/resources/cp2_4_ps07_sol)), F20 ([PDF]({{< baseurl >}}/resources/f20_ps07_sol)), S1 ([PDF]({{< baseurl >}}/resources/s01_ps07_sol)), S2 ([PDF]({{< baseurl >}}/resources/s02_ps07_sol)), S3 ([PDF]({{< baseurl >}}/resources/s03_ps07_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -361,9 +361,9 @@ Problem Set 8 ([PDF]({{< baseurl >}}/resources/spring04_pset8))
 C5-C6 ([PDF]({{< baseurl >}}/resources/cp5_6_ps08_s04)), S4 ([PDF]({{< baseurl >}}/resources/s04_ps08_spring04)), S5 ([PDF]({{< baseurl >}}/resources/s05_ps08_spring04)), S6 ([PDF]({{< baseurl >}}/resources/s06_ps08_spring04)), S7 ([PDF]({{< baseurl >}}/resources/s07_ps08_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset8_sol_04))  
+Problem Set 8 ([PDF]({{< baseurl >}}/resources/pset8_sol_04))  
   
-C5-C6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cp5_6_ps08_sol)), S4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s04_ps08_sol)), S5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s05_ps08_sol)), S6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s06_ps08_sol)), S7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s07_ps08_sol))
+C5-C6 ([PDF]({{< baseurl >}}/resources/cp5_6_ps08_sol)), S4 ([PDF]({{< baseurl >}}/resources/s04_ps08_sol)), S5 ([PDF]({{< baseurl >}}/resources/s05_ps08_sol)), S6 ([PDF]({{< baseurl >}}/resources/s06_ps08_sol)), S7 ([PDF]({{< baseurl >}}/resources/s07_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -376,7 +376,7 @@ C7-C10 ([PDF]({{< baseurl >}}/resources/cp7_10_ps09_s04)), P1 ([PDF]({{< baseurl
 {{< tdopen >}}
 Problem Set 9 ([PDF]({{< baseurl >}}/resources/pset9_sol_04))  
   
-C7-C10 ([PDF]({{< baseurl >}}/resources/cp7_10_ps09_sol)), P1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p01_ps09_sol)), P2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p02_ps09_sol)), S8 ([PDF]({{< baseurl >}}/resources/s08_ps09_sol)), S9 ([PDF]({{< baseurl >}}/resources/s09_ps09_sol))
+C7-C10 ([PDF]({{< baseurl >}}/resources/cp7_10_ps09_sol)), P1 ([PDF]({{< baseurl >}}/resources/p01_ps09_sol)), P2 ([PDF]({{< baseurl >}}/resources/p02_ps09_sol)), S8 ([PDF]({{< baseurl >}}/resources/s08_ps09_sol)), S9 ([PDF]({{< baseurl >}}/resources/s09_ps09_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -389,7 +389,7 @@ C11-C12 ([PDF]({{< baseurl >}}/resources/cp11_12_ps10_s04)), P3 ([PDF]({{< baseu
 {{< tdopen >}}
 Problem Set 10 ([PDF]({{< baseurl >}}/resources/pset10_sol_04))  
   
-C11-C12 ([PDF]({{< baseurl >}}/resources/cp11_12_ps10_sol)), P3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p03_ps10_sol)), P4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p04_ps10_sol)), S10 ([PDF]({{< baseurl >}}/resources/s10_ps10_sol)), S11 ([PDF]({{< baseurl >}}/resources/s11_ps10_sol)), S12 ([PDF]({{< baseurl >}}/resources/s12_ps10_sol))
+C11-C12 ([PDF]({{< baseurl >}}/resources/cp11_12_ps10_sol)), P3 ([PDF]({{< baseurl >}}/resources/p03_ps10_sol)), P4 ([PDF]({{< baseurl >}}/resources/p04_ps10_sol)), S10 ([PDF]({{< baseurl >}}/resources/s10_ps10_sol)), S11 ([PDF]({{< baseurl >}}/resources/s11_ps10_sol)), S12 ([PDF]({{< baseurl >}}/resources/s12_ps10_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -402,20 +402,20 @@ C13-C14 ([PDF]({{< baseurl >}}/resources/cp13_14_ps11_s04)), P5 ([PDF]({{< baseu
 {{< tdopen >}}
 Problem Set 11 ([PDF]({{< baseurl >}}/resources/pset11_sol_04))  
   
-C13-C14 ([PDF]({{< baseurl >}}/resources/cp13_14_ps11_sol)), P5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p05_ps11_sol)), P6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p06_ps11_sol)), P7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p07_ps11_sol)), S13 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s13_ps11_sol))
+C13-C14 ([PDF]({{< baseurl >}}/resources/cp13_14_ps11_sol)), P5 ([PDF]({{< baseurl >}}/resources/p05_ps11_sol)), P6 ([PDF]({{< baseurl >}}/resources/p06_ps11_sol)), P7 ([PDF]({{< baseurl >}}/resources/p07_ps11_sol)), S13 ([PDF]({{< baseurl >}}/resources/s13_ps11_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/spring04_pset12))  
+Problem Set 12 ([PDF]({{< baseurl >}}/resources/spring04_pset12))  
   
-C16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cp16_ps12_s04)), P8 ([PDF]({{< baseurl >}}/resources/p08_ps12_spring04)), P9 ([PDF]({{< baseurl >}}/resources/p09_ps12_spring04)), S14 ([PDF]({{< baseurl >}}/resources/s14_ps12_spring04)), S15 ([PDF]({{< baseurl >}}/resources/s15_ps12_spring04))
+C16 ([PDF]({{< baseurl >}}/resources/cp16_ps12_s04)), P8 ([PDF]({{< baseurl >}}/resources/p08_ps12_spring04)), P9 ([PDF]({{< baseurl >}}/resources/p09_ps12_spring04)), S14 ([PDF]({{< baseurl >}}/resources/s14_ps12_spring04)), S15 ([PDF]({{< baseurl >}}/resources/s15_ps12_spring04))
 {{< tdclose >}}
 {{< tdopen >}}
-Problem Set 12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pset12_sol_04))  
+Problem Set 12 ([PDF]({{< baseurl >}}/resources/pset12_sol_04))  
   
-C16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cp16_ps12_sol)), P8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p08_ps12_sol)), P9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p09_ps12_sol)), S14 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s14_ps12_sol)), S15 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s15_ps12_sol))
+C16 ([PDF]({{< baseurl >}}/resources/cp16_ps12_sol)), P8 ([PDF]({{< baseurl >}}/resources/p08_ps12_sol)), P9 ([PDF]({{< baseurl >}}/resources/p09_ps12_sol)), S14 ([PDF]({{< baseurl >}}/resources/s14_ps12_sol)), S15 ([PDF]({{< baseurl >}}/resources/s15_ps12_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +428,7 @@ C18-C20 ([PDF]({{< baseurl >}}/resources/cp18_20_ps13_s04)), S16 ([PDF]({{< base
 {{< tdopen >}}
 Problem Set 13 ([PDF]({{< baseurl >}}/resources/pset13_sol_04))  
   
-S16 ([PDF]({{< baseurl >}}/resources/s16_ps13_sol)), S17 ([PDF]({{< baseurl >}}/resources/s17_ps13_sol)), S18 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/s18_ps13_sol))
+S16 ([PDF]({{< baseurl >}}/resources/s16_ps13_sol)), S17 ([PDF]({{< baseurl >}}/resources/s17_ps13_sol)), S18 ([PDF]({{< baseurl >}}/resources/s18_ps13_sol))
 {{< tdclose >}}
 
 {{< trclose >}}

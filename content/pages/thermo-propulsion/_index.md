@@ -107,7 +107,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q3_3))
 {{< tdopen >}}
 Problem T2 ([PDF]({{< baseurl >}}/resources/t02_ps02_fall03))  
   
-Solution T2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t02_ps02_sol))
+Solution T2 ([PDF]({{< baseurl >}}/resources/t02_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +134,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q4_1))
 {{< tdopen >}}
 Problem T3 ([PDF]({{< baseurl >}}/resources/t03_ps02_fall03))  
   
-Solution T3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t03_ps02_sol))
+Solution T3 ([PDF]({{< baseurl >}}/resources/t03_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +161,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q4_7))
 {{< tdopen >}}
 Problem T4 ([PDF]({{< baseurl >}}/resources/t04_ps02_fall03))  
   
-Solution T4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t04_ps02_sol))
+Solution T4 ([PDF]({{< baseurl >}}/resources/t04_ps02_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -215,7 +215,7 @@ Q1 ([PDF]({{< baseurl >}}/resources/q5_3))
 {{< tdopen >}}
 Problem T6 ([PDF]({{< baseurl >}}/resources/t05_ps02_sol))  
   
-Solution T6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t06_ps03_sol))
+Solution T6 ([PDF]({{< baseurl >}}/resources/t06_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -240,7 +240,7 @@ Q1 ([PDF]({{< baseurl >}}/resources/q5_4))
 {{< tdopen >}}
 Problem T7 ([PDF]({{< baseurl >}}/resources/t07_ps03_fall03))  
   
-Solution T7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t07_ps03_sol))
+Solution T7 ([PDF]({{< baseurl >}}/resources/t07_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,7 +267,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q6_4))
 {{< tdopen >}}
 Problem T8 ([PDF]({{< baseurl >}}/resources/t08_ps03_fall03))  
   
-Solution T8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t08_ps03_sol))
+Solution T8 ([PDF]({{< baseurl >}}/resources/t08_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +296,7 @@ Q3 ([PDF]({{< baseurl >}}/resources/q6_12))
 {{< tdopen >}}
 Problem T9 ([PDF]({{< baseurl >}}/resources/t09_ps03_fall03))  
   
-Solution T9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t09_ps03_sol))
+Solution T9 ([PDF]({{< baseurl >}}/resources/t09_ps03_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -325,7 +325,7 @@ Q3 ([PDF]({{< baseurl >}}/resources/q6_14))
 {{< tdopen >}}
 Problem T10 ([PDF]({{< baseurl >}}/resources/t10_ps04_fall03))  
   
-Solution T10 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t10_ps04_sol))
+Solution T10 ([PDF]({{< baseurl >}}/resources/t10_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -356,7 +356,7 @@ Q4 ([PDF]({{< baseurl >}}/resources/q7_10))
 {{< tdopen >}}
 Problem T11 ([PDF]({{< baseurl >}}/resources/t11_ps04_fall03))  
   
-Solution T11 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t11_ps04_sol))
+Solution T11 ([PDF]({{< baseurl >}}/resources/t11_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -381,7 +381,7 @@ Entropy
 {{< tdopen >}}
 Problem T12 ([PDF]({{< baseurl >}}/resources/t12_ps04_fall03))  
   
-Solution T12 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/t12_ps04_sol))
+Solution T12 ([PDF]({{< baseurl >}}/resources/t12_ps04_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -439,12 +439,12 @@ Q2 ([PDF]({{< baseurl >}}/resources/q2))
 {{< tdopen >}}
 [Introduction to Propulsion](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion1/UnifiedPropulsion1.htm) and [Integral Momentum Theorem](/ans7870/16/16.unified/propulsionS04/UnifiedPropulsion2/UnifiedPropulsion2.htm)  
   
-CFM56-3 Diagrams (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cfm_engine))
+CFM56-3 Diagrams ([PDF]({{< baseurl >}}/resources/cfm_engine))
 {{< tdclose >}}
 {{< tdopen >}}
 Problem P1 ([PDF]({{< baseurl >}}/resources/p1))  
   
-Solution P1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p1sol))
+Solution P1 ([PDF]({{< baseurl >}}/resources/p1sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -469,7 +469,7 @@ Q1 ([PDF]({{< baseurl >}}/resources/q3-1))
 {{< tdopen >}}
 Problem P2 ([PDF]({{< baseurl >}}/resources/p2))  
   
-Solution P2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p2sol))
+Solution P2 ([PDF]({{< baseurl >}}/resources/p2sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -498,7 +498,7 @@ P3 Lecture Slides ([PDF]({{< baseurl >}}/resources/p3slides))
 {{< tdopen >}}
 Problem P3 ([PDF]({{< baseurl >}}/resources/p3))  
   
-Solution P3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p3sol))
+Solution P3 ([PDF]({{< baseurl >}}/resources/p3sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -525,7 +525,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q14))
 {{< tdopen >}}
 Problem P4 ([PDF]({{< baseurl >}}/resources/p4))  
   
-Solution P4 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p4sol))
+Solution P4 ([PDF]({{< baseurl >}}/resources/p4sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -552,7 +552,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q17))
 {{< tdopen >}}
 Problem P5 ([PDF]({{< baseurl >}}/resources/p5))  
   
-Solution P5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p5sol))
+Solution P5 ([PDF]({{< baseurl >}}/resources/p5sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -576,7 +576,7 @@ Q1 ([PDF]({{< baseurl >}}/resources/q19))
 {{< tdopen >}}
 Problem P6 ([PDF]({{< baseurl >}}/resources/p6))  
   
-Solution P6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p6sol))
+Solution P6 ([PDF]({{< baseurl >}}/resources/p6sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -602,7 +602,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q18))
 {{< tdopen >}}
 Problem P7 ([PDF]({{< baseurl >}}/resources/p7))  
   
-Solution P7 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p7sol))
+Solution P7 ([PDF]({{< baseurl >}}/resources/p7sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -628,7 +628,7 @@ Q2 ([PDF]({{< baseurl >}}/resources/q24))
 {{< tdopen >}}
 Problem P8 ([PDF]({{< baseurl >}}/resources/p8))  
   
-Solution P8 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p8sol))
+Solution P8 ([PDF]({{< baseurl >}}/resources/p8sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -655,7 +655,7 @@ Velocity Triangle Handouts ([PDF]({{< baseurl >}}/resources/velocitytriangles))
 {{< tdopen >}}
 Problem P9 ([PDF]({{< baseurl >}}/resources/p9))  
   
-Solution P9 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/p9sol))
+Solution P9 ([PDF]({{< baseurl >}}/resources/p9sol))
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -100,7 +100,7 @@ The Language of Engineering ([PDF]({{< baseurl >}}/resources/notesu1u2))
 {{< tdopen >}}
 Problem U2 ([PDF]({{< baseurl >}}/resources/u02_ps06_fall03-1))  
   
-Solution U2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/u02_ps06_sol-1))
+Solution U2 ([PDF]({{< baseurl >}}/resources/u02_ps06_sol-1))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -120,7 +120,7 @@ The Language of Engineering (cont.)
 {{< tdopen >}}
 Problem U3 ([PDF]({{< baseurl >}}/resources/u03_ps07_fall03-1))  
   
-Solution U3 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/u03_ps07_sol-1))
+Solution U3 ([PDF]({{< baseurl >}}/resources/u03_ps07_sol-1))
 {{< tdclose >}}
 
 {{< trclose >}}

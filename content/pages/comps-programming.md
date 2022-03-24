@@ -204,7 +204,7 @@ Solution C6 ([PDF]({{< baseurl >}}/resources/c06_ps03_sol))
 C7
 {{< tdclose >}}
 {{< tdopen >}}
-Machine Language (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/7_assembly))
+Machine Language ([PDF]({{< baseurl >}}/resources/7_assembly))
 {{< tdclose >}}
 {{< tdopen >}}
 Machine Language Supplement ([PDF]({{< baseurl >}}/resources/machne_lang_styl))  
@@ -590,7 +590,7 @@ Solution C4 ([PDF]({{< baseurl >}}/resources/cp2_4_ps07_sol))
 C5
 {{< tdclose >}}
 {{< tdopen >}}
-Ada: Access Types (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/5_ada_acc_tyoes))
+Ada: Access Types ([PDF]({{< baseurl >}}/resources/5_ada_acc_tyoes))
 {{< tdclose >}}
 {{< tdopen >}}
 Linked Lists Supplement
@@ -606,7 +606,7 @@ Brookshear. Sections 7.1, 7.3.
 {{< tdopen >}}
 Problem C5 ([PDF]({{< baseurl >}}/resources/cp5_6_ps08_s04))  
   
-Solution C5 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cp5_6_ps08_sol))
+Solution C5 ([PDF]({{< baseurl >}}/resources/cp5_6_ps08_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -615,7 +615,7 @@ Solution C5 (![This resource may not render correctly in a screen reader.](/imag
 C6
 {{< tdclose >}}
 {{< tdopen >}}
-Graphs (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/6_graphs))
+Graphs ([PDF]({{< baseurl >}}/resources/6_graphs))
 {{< tdclose >}}
 {{< tdopen >}}
 Graph Theory Supplement
@@ -629,7 +629,7 @@ Graph Theory Supplement
 {{< tdopen >}}
 Problem C6 ([PDF]({{< baseurl >}}/resources/cp5_6_ps08_s04))  
   
-Solution C6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cp5_6_ps08_s04))
+Solution C6 ([PDF]({{< baseurl >}}/resources/cp5_6_ps08_s04))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -638,7 +638,7 @@ Solution C6 (![This resource may not render correctly in a screen reader.](/imag
 C7
 {{< tdclose >}}
 {{< tdopen >}}
-Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/7_trees))
+Trees ([PDF]({{< baseurl >}}/resources/7_trees))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -661,7 +661,7 @@ Solution C7 ([PDF]({{< baseurl >}}/resources/cp7_10_ps09_sol))
 C8
 {{< tdclose >}}
 {{< tdopen >}}
-More Trees (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/8_binary_trees))
+More Trees ([PDF]({{< baseurl >}}/resources/8_binary_trees))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -707,7 +707,7 @@ Solution C9 ([PDF]({{< baseurl >}}/resources/cp7_10_ps09_sol))
 C10
 {{< tdclose >}}
 {{< tdopen >}}
-Algorithm Analysis: Data Structures, Search and Sort Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/10_sort_alg))
+Algorithm Analysis: Data Structures, Search and Sort Algorithms ([PDF]({{< baseurl >}}/resources/10_sort_alg))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -730,7 +730,7 @@ Solution C10 ([PDF]({{< baseurl >}}/resources/cp7_10_ps09_sol))
 C11
 {{< tdclose >}}
 {{< tdopen >}}
-Algorithm Analysis: Reasonable vs. Unreasonable Algorithms, Complexity (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/11_sort_srch_alg))
+Algorithm Analysis: Reasonable vs. Unreasonable Algorithms, Complexity ([PDF]({{< baseurl >}}/resources/11_sort_srch_alg))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -776,7 +776,7 @@ Solution C12 ([PDF]({{< baseurl >}}/resources/cp11_12_ps10_sol))
 C13
 {{< tdclose >}}
 {{< tdopen >}}
-Software Engineering and Testing (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/13_testing))
+Software Engineering and Testing ([PDF]({{< baseurl >}}/resources/13_testing))
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -857,9 +857,9 @@ Introduction to Logic ([PDF]({{< baseurl >}}/resources/16_logic))
 Brookshear. Sections 1.1, 5.7.
 {{< tdclose >}}
 {{< tdopen >}}
-Problem C16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF]({{< baseurl >}}/resources/cp16_ps12_s04))  
+Problem C16 ( [PDF]({{< baseurl >}}/resources/cp16_ps12_s04))  
   
-Solution C16 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/cp16_ps12_sol))
+Solution C16 ([PDF]({{< baseurl >}}/resources/cp16_ps12_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -1028,7 +1028,7 @@ Recitation 2 ([PDF]({{< baseurl >}}/resources/m2))
 
 Recitation 1 ([PDF]({{< baseurl >}}/resources/1recitation))
 
-Recitation 2 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/2_rec_graphstr))
+Recitation 2 ([PDF]({{< baseurl >}}/resources/2_rec_graphstr))
 
 Recitation 3 ([PDF]({{< baseurl >}}/resources/3rec_alg_ana)); Mud ([PDF]({{< baseurl >}}/resources/r3))
 
