@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 resourcetype: Image
 title: QUIZrev2.gif
 uid: d2ab397d-cf05-d86e-3dc4-0ad4fa60fac6

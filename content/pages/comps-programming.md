@@ -84,9 +84,9 @@ C2
 Ada: First Program, Programming Style, Tools ([PDF]({{< baseurl >}}/resources/2_hellowrld_spdr))
 {{< tdclose >}}
 {{< tdopen >}}
-Screen ([ADB](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming/screen.adb))  
+Screen ({{% resource_link "9f4804d0-482f-4467-40e8-6b246d9ea549" "ADB" %}})  
   
-Screen ([ADS](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/comps-programming/screen.ads))
+Screen ({{% resource_link "d0e6d128-28d9-b142-9f52-712db59fc70e" "ADS" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mud2))

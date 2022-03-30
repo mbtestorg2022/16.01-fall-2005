@@ -4,6 +4,7 @@ description: This resource contains information on diagrams for water bottle roc
   lab 1.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a157a1125a8d91244769504d630eedcf_sp4_notes.pdf
 file_type: application/pdf
+parent_uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 resourcetype: Document
 title: sp4_notes.pdf
 uid: a157a112-5a8d-9124-4769-504d630eedcf

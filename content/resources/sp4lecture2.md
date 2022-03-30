@@ -4,6 +4,7 @@ description: This resource contains information on lecture presentation on engin
   education and baseline assessment.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/30484fa74149f87b2e04a59602056a90_sp4lecture2.pdf
 file_type: application/pdf
+parent_uid: 87e8f47c-351c-ccd4-50e9-b5e03c5bbee2
 resourcetype: Document
 title: sp4lecture2.pdf
 uid: 30484fa7-4149-f87b-2e04-a59602056a90

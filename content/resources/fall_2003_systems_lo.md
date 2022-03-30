@@ -4,6 +4,7 @@ description: This file contains the learning objectives and measurable outcomes 
   the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/4dc53cfe4109e5ecb4a3e5cf7ca5ace4_fall_2003_systems_lo.pdf
 file_type: application/pdf
+parent_uid: c4fd6fd6-1378-ecf4-a56a-b73c6b455e18
 resourcetype: Document
 title: fall_2003_systems_lo.pdf
 uid: 4dc53cfe-4109-e5ec-b4a3-e5cf7ca5ace4

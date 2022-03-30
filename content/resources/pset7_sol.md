@@ -5,6 +5,7 @@ description: This file includes solutions to problems on Materials and Structure
   Norton equivalent circuits, and constitutive law for capacitors and inductors.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/a71c0252b68480e8abb955cd8c3cd940_pset7_sol.pdf
 file_type: application/pdf
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: pset7_sol.pdf
 uid: a71c0252-b684-80e8-abb9-55cd8c3cd940

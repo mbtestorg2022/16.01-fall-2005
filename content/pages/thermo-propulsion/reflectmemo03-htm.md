@@ -30,7 +30,7 @@ Teaching and Assessment Methods
 *   Prepared lecture notes were available on the Web for all of the material. These notes have evolved over several years starting with a set of handwritten lecture notes. Each year I augment them when I find specific areas of difficulty from mud responses, etc. This year, I worked with Robin to increase the font size for the imbedded equations so they are more readable. I also added to the discussions regarding cp & cv and frame dependence of stagnation quantities. In general I am quite happy with the notes. In the end-of-term evaluations ([PDF]({{< baseurl >}}/resources/ft03sef)) 97% of the respondents rated the Web page (for all of Unified) Very Effective (70%) or Somewhat Effective (27%). 100% of the respondents rated the prepared lecture notes (for all of Unified) Very Effective (88%) or Somewhat Effective (12%).
 *   I used 25 concept questions over the 12 lectures with responses taken on the PRS system. The performance and answers to these were provided on the Web page. I continue to find these to be very useful for engaging the class in the material while I am lecturing. 100% of the respondents on the SEF rated the lectures Very Effective (64%) or Somewhat Effective (36%). 95% of the respondents on the SEF rated the in-class exercises as Very Effective (53%) or Somewhat Effective (43%). Also several positive comments were made about the PRS/concept questions in the written comments ([PDF]({{< baseurl >}}/resources/ft03sefessay)) from the end-of-term evaluations. In general my teaching reviews were good, so I think the students found my lectures to be helpful to them.  
       
-    ![Graphs of evaluations stats.](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/image001.gif)
+    {{< resource "3191b21d-0cff-6901-b791-3f2b83f3caef" >}}
 *   I used mud cards for each lecture and responded to them the evening the lecture was delivered and put the responses up on Web. These responses were linked to the relevant areas of the online notes. See for example T1 mud responses. 82% of the respondents on the end-of-term evaluations said the mud cards were Very Effective (30%) or Somewhat Effective (53%), however the majority found they were only Somewhat Effective (53%). Nonetheless, I still found the mud cards to be valuable to me for providing feedback on each lecture. Even in cases where there were very few respondents it was helpful, therefore I will continue to use these.
 *   I wrote short assessments of each lecture (how they went). See for example T3 mud responses. This was mostly helpful for me, although I did use it to stress the important points from the lecture. I am not sure how many students read these responses. In general, I think that we have saturated the students in terms of available material on the Web. Further information goes un-read.
 *   I did 4 small demonstrations/in-class experiments. The students seemed to like these activities since they allowed them to apply the subject material to a real problem. They all were of the form where I asked the students to estimate something (using the concepts in class), then did the experiment and then discussed the result in light of their estimates. The activities thus had three primary objectives: to engage the students in the material we were working on and show them how to apply it, to highlight the various simplifications and assumptions in the engineering models we use, and to give the students practice in estimating various parameters required for input to the models (e.g. the volume of the room, or the weight of something, etc.)
@@ -404,9 +404,9 @@ Weight
 
 {{< tableclose >}}
 
-![Thermodynamics problem set mean scores graph.](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/image009.gif)
+{{< resource "6782c13e-c019-70c6-b0d9-a1d63e2856f6" >}}
 
-![Thermodynamics mean time spent graph.](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/image008.gif)
+{{< resource "e6ee161e-a88d-6e00-ec28-526e2898336c" >}}
 
 Continuous Improvement
 ----------------------
@@ -414,7 +414,7 @@ Continuous Improvement
 **5\. What actions did you take this semester to improve the subject as a result of previous reflections or input from students or colleagues?**
 
 *   The major action was introducing a quiz recap/discussion directly following completion of the quiz, under the presumption that this was a "teachable moment". Most of the students in the class found this helpful as noted in the response to the PRS question "I found the quiz review after the exams helpful, and think they are a better use of time than adding another lecture; 1=strongly agree, 2=agree, 3=neutral, 4=disagree, 5=strongly disagree" shown below. I too found this to be a good addition - worth the trade of an additional lecture hour. It enabled me to explain how the quiz was designed, to address questions, and to discuss scoring rubrics.  
-    ![Quiz reviewgraph.](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/QuizReview.gif)
+    {{< resource "288f98ac-083d-1dcf-3464-55f6e2f650c3" >}}
 *   I improved my delivery of quasi-equilibrium processes (evidenced on the exam performance and mud responses) by focusing on the physical implications and physical examples. The students had a much easier time understanding the time to reach equilibrium when applied to a coffee cup.
 *   I worked with Robin to increase the font size for the imbedded equations in the Web notes so they are more readable.
 *   I also added new discussions regarding cp & cv and frame dependence of stagnation quantities based on previous years' mud responses.

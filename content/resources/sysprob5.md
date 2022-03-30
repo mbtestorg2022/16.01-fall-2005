@@ -8,6 +8,7 @@ description: This file contains the exercise which contains Test a three-dimensi
   your findings.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/15569ea4c1a5e3d201c368fe044897dc_sysprob5.pdf
 file_type: application/pdf
+parent_uid: 1f88d71a-9054-37a1-8163-daf60a1dd696
 resourcetype: Document
 title: sysprob5.pdf
 uid: 15569ea4-c1a5-e3d2-01c3-68fe044897dc

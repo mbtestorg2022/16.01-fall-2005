@@ -173,21 +173,21 @@ Means: 1= 8.6, 2= 9.2, 3= 8.2, 4=6.6, 5=9.0, 6= 7.5,7=6.9, 8=7.5, 9=7.7, 10=8.3,
 3.  Performance on Problem 8 is a good measure of Measurable Outcome #6-class ave.= 7.5.
 4.  The performance on 12 is disappointing-it asked students to explain reversibility and irreversibility. They did very poorly. I think they had trouble with these concepts.
 
-![](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/acr262.jpg)
+{{< resource "5e7473ab-31e4-957b-7c6f-7bc7517ae0de" >}}
 
 ### D. Student Self-assessment Results
 
 **Note:** I added measurable outcome #3 after the class was over so they didn't get a chance to self-assess on it. By their reckoning, they are the poorest at applying the first law. This, of course, is perhaps the most important outcome of the class. I am not sure how valuable this self-assessment activity was for me-I think it gave them an opportunity however, to think about what they know and don't know prior to taking the quiz. This is good.
 
-![](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/acr27a.jpg)
+{{< resource "8b000289-6790-e9ab-5eaa-d9375afd9d13" >}}
 
 ### E. Quiz Performance
 
 Middle B was approximately 70/100. I collected A, B, and C-level examples of their work for reference.
 
-![](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/acr289.jpg)
+{{< resource "0d39e6ae-6d00-9c42-7fdb-bdd027e238e4" >}}
 
-![](/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/thermo-propulsion/acr292.jpg)
+{{< resource "d6a47b09-336e-7494-ded2-501fde2bc08e" >}}
 
 1.  The students did not perform well on Q2 particularly parts c and d which required some applications to a more open-ended question. This was a SFEE question that I expected them to do better on.
 2.  The students also did not perform particularly well on Q3a where they were asked to represent a cycle on a thermodynamic diagram.

@@ -4,6 +4,7 @@ description: This file contains problem set 2 for this course which discusses ab
   unified?engineering?I.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/9c3538f00b2691fa87585fed85234f4c_s02_ps05_sol.pdf
 file_type: application/pdf
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: s02_ps05_sol.pdf
 uid: 9c3538f0-0b26-91fa-8758-5fed85234f4c

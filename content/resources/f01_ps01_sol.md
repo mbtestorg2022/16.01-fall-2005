@@ -4,6 +4,7 @@ description: This resource consists of handwritten problem set solution for the 
   based on airfoil.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/b1541a8e99fb3a3be6c505a5315c7bac_f01_ps01_sol.pdf
 file_type: application/pdf
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: f01_ps01_sol.pdf
 uid: b1541a8e-99fb-3a3b-e6c5-05a5315c7bac

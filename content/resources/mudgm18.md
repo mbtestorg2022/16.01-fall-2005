@@ -4,6 +4,7 @@ description: This resource contains review questions and answers based on Tresca
   Von Mises multiaxial yield criteria, 3-D Mohr's circle, and fracture mechanics.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/e20272653766063e2abb71951e6ca8bd_mudgm18.pdf
 file_type: application/pdf
+parent_uid: b640d5c4-9375-61ab-448e-c8a1ec804a97
 resourcetype: Document
 title: mudgm18.pdf
 uid: e2027265-3766-063e-2abb-71951e6ca8bd

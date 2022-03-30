@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 resourcetype: Image
 title: image9_t8_t903.jpg
 uid: 895cdbf4-34b6-0dd2-4710-9fb6c9d6ac9d

@@ -4,6 +4,7 @@ description: This handout contains the solutions for Problem set based on truth 
   and K-Maps.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/3619fb4ac134261c024378d60ea89b7a_cp16_ps12_sol.pdf
 file_type: application/pdf
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: cp16_ps12_sol.pdf
 uid: 3619fb4a-c134-261c-0243-78d60ea89b7a

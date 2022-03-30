@@ -4,6 +4,7 @@ description: This resource provides information on the topics of hydrostatic equ
   manometer and buoyancy force.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/c1126a530528e858e56a41d7052e4126_f02_fall.pdf
 file_type: application/pdf
+parent_uid: 6a5f667b-6fca-f068-0ec8-b203122154de
 resourcetype: Document
 title: f02_fall.pdf
 uid: c1126a53-0528-e858-e56a-41d7052e4126

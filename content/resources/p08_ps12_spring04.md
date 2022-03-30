@@ -3,6 +3,7 @@ content_type: resource
 description: Problem set.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/869fa84f08be1b6e85a777f4a7ce97c4_p08_ps12_spring04.pdf
 file_type: application/pdf
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: p08_ps12_spring04.pdf
 uid: 869fa84f-08be-1b6e-85a7-77f4a7ce97c4

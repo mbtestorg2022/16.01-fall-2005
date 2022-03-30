@@ -4,6 +4,7 @@ description: This resource contains concept questions and answers based on stren
   of materials.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/2dff4bcbf4e5c3a06007eea0d4ef6ec7_prsm16.pdf
 file_type: application/pdf
+parent_uid: b640d5c4-9375-61ab-448e-c8a1ec804a97
 resourcetype: Document
 title: prsm16.pdf
 uid: 2dff4bcb-f4e5-c3a0-6007-eea0d4ef6ec7

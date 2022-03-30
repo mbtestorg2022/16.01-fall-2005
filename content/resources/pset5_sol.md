@@ -4,6 +4,7 @@ description: This file includes solutions to problems on unified computers and p
   and signals?and?systems.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006/0319dce2e189876be3f8d1563bcebb91_pset5_sol.pdf
 file_type: application/pdf
+parent_uid: a6eb2151-6f41-806d-94ff-dc83eb5f4337
 resourcetype: Document
 title: pset5_sol.pdf
 uid: 0319dce2-e189-876b-e3f8-d1563bcebb91

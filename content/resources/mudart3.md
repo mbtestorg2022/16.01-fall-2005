@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 05b2ba63-43e4-3028-bad4-cdf50e0b363a
 resourcetype: Image
 title: mudart3.jpg
 uid: 5e852fe0-eb4c-4c5f-98d4-11e2e2dd993c
